@@ -37,6 +37,7 @@ Parts Needed:
 * (4) SK8's 
 * (1) Motor Mount
 * (2) 2020 corner brackets.
+
 Hardware Needed: 
 * (8) 2020 L Mounts w/ Set Screws 
 * (8) 5mm T-Nuts 
@@ -62,316 +63,93 @@ TODO: INSERT IMAGE
 TODO: INSERT IMAGE
 9. You can now use the remaining (4) 2020 L Mounts to secure the bottom frame together. Tighten the set screws to lock them in place. Use the below pictures as reference. Note: The motor mount is not pictured, but should be attached to the rear 2020 beam.
 TODO: INSERT IMAGE
+
 ### Attach Y Carriage Rails & Bearings
- Parts Needed: (2) 395MM Chrome Rods, (3) LM8UU Bearings, Bottom Frame Assembly.  Hardware Needed: none
+Parts Needed:
+* (2) 395MM Chrome Rods
+* (3) LM8UU Bearings
+* Bottom Frame Assembly
+
+Hardware Needed: none
 
 
 1. Place the bottom frame in front of you so the motor mount is at the back of the printer. Note: This is the front position of the printer. The motor mount is missing from this picture but should be attached to the rear 2020 beam.
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 2. Slide (1) 395MM Chrome Rod through the front right SK8 about half way through.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 3. Carefully slide (2) LM8UU Bearings onto the Chrome Rod & finish pushing the Chrome Rod through to the other SK8. Be careful not to hit the corner of the rod on the inside of the LM8UU which can cause bearings to fall out.
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 4. Similar to step 3 slide the remaining (1) 395MM Chrome rod into the left side SK8 and slide (1) LM8UU Bearing onto the rod.
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 5. Be Sure to tighten the tension screws on the (4) SK8's to secure the chrome rod's in place.
+TODO: INSERT IMAGE
 
+### Attach & Assemble The Upper Frame
+Parts Needed:
+* (2) 295MM 2020 Beam
+* (1)375MM 2020 Beam
+* Bottom Frame Assembly
 
-Step 5: Attach & Assemble The Upper Frame
- Parts Needed: (2) 295MM 2020 Beam, (1)375MM 2020 Beam, Bottom Frame Assembly.  Hardware Needed: (3) 2020 L Mounts w/ Set Screws.
-
+Hardware Needed:
+* (3) 2020 L Mounts w/ Set Screws.
 
 1. Take the (2)295MM 2020 Beams and attach them vertically to the left and right side of the Bottom Frame Assembly using the (2) 2020 L Mount's on each side that we placed in step 3:8. Before securing them make sure the back side of the beam is 90MM from the back of the printer.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 2. Before attaching the top we are going to attach (1) 2020 L Mount to the outside of the left most vertical 295MM 2020 Beam for the Spool Holder which we will attach later.
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 3. Now attach the remaining (1) 375MM 2020 Beam to the top of the (2) vertical 295MM 2020 Beams using (2) 2020 L Mounts w/ Set Screws to secure them in place.
+TODO: INSERT IMAGE
 
+### Assemble The Aluminum Heat Bed Plate
+Parts Needed:
+* (1) Aluminum Bed Plate
+* (3) Printed Bearing Mounts
+* (1) Printed Belt Carriage.
 
-
-
-
-
-
-
-
-
-
-
-
-Step 6: Assemble The Aluminum Heat Bed Plate
- Parts Needed: (1) Aluminum Bed Plate, (3) Printed Bearing Mounts, (1) Printed Belt Carriage.
- Hardware Needed: (6) Small Zip Ties, (6) M3x20MM Bolts, (2) M3x12MM Bolts (8) M3 Nylock Nuts.
-
+Hardware Needed:
+* (6) Small Zip Ties
+* (6) M3x20MM Bolts
+* (2) M3x12MM Bolts 
+* (8) M3 Nylock Nuts.
 
 1. Remove the blue protective layer off both sides of the Aluminum Bed Mount.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 2. Take the (3) Printed Bearing Mounts and attach (2) Small Zip Ties to each by sliding the Zip Tie through the guide holes (as pictured).
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 3. Using the (6) M3x20MM Bolts & (6) M3 Nylock Nuts, attach the Printed Bearing Holders to the Aluminum Bed Plate. Use the (2) M3x12MM Bolts and (2) M3 Nylock Nuts to attach the Printed Belt Carriage to the Aluminum Bed Mount using the pre drilled holes. Note: the opening on the Printed Belt Carriage is facing the side with 2 bearing holders.
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 4. Now we are going to attach the Aluminum Bed Mount to the bearings on the Bottom Frame Assembly of the printer by pushing them down into the LM8UU Bearings. Line up the Printed Bearing Holders over the LM8UU's attached to the Chromed Rod and apply enough pressure to snap the bearings into the Printed Bearing Mounts. Note: you should feel a small pop as it sets into the grooves.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 5. Tip the frame backward and close the Small Zip Ties that you previously attached to the Printed Bearing Holders over the LM8UU Bearings securing them in place. Note: Once tightened you can clip the excess material from the Small Zip Ties.
+TODO: INSERT IMAGE
 
 
+### Solder The MK2B Heated Bed & Attach Thermistor
+Parts Needed:
+* (1) MK2B Heated Bed 
+* (1) Thermistor 
+* (1) xM Black 16 Gauge Wire
+* (1) xM Red 16 Gauge Wire.
 
-
-
-
-
-
-
-
-
-
-
-Step 7: Solder The MK2B Heated Bed & Attach Thermistor
- Parts Needed: (1) MK2B Heated Bed, (1) Thermistor, (1) xM Black 16 Gauge Wire, (1) xM Red 16 Gauge Wire.
- Special Tools Needed: Soldering Iron, Solder, Kapton Tape
-
+Special Tools Needed:
+* Soldering Iron 
+* Solder 
+* Kapton Tape
 
 1. Prepare your MK2B Heated Bed to be soldered.
-
-
-
-
-
-
-
-
-
-
-
-
 2. Apply solder to contacts #1, #2, & #3.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 3. Strip the ends off and apply solder to one end of both the Black & Red 16 Gauge Wire.
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 4. Solder the stripped and soldered end of the Black 16 Gauge Wire to both contacts #3 & #2. Note: This is critical, if you do not make contact with both #3 & #2 you will only be running at 12v and will not be able to reach max bed temp.
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 5. Solder the stripped and soldered end of the Red 16 Gauge Wire to contact #1.
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 6. Place the glass of (1) Thermistor into the small hole in the center of the heated bed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 7. Using the provided Kapton Tape, secure both the Thermistor and the Red & Black 16 Gauge wire to the bottom of the heated bed. Note: use these pictures as a guideline but you can use more/less tape and position the wires as you see fit.
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: INSERT IMAGE
 
 Step 8: Attach the Heated Bed to the Aluminum Bed Plate.   Parts Needed: (1) MK2B Heated Bed Pre Wired from Step 7
  Hardware Needed: (4) Springs, (4) Thumb Screws, (4) M3x16MM Bolts
