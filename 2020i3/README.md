@@ -1,4 +1,5 @@
 # FOLGER TECHNOLOGIES, LLC 2020 i3 – 3D Printer Kit Build Guide
+![](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-001-000.png)
 ## Introduction
 This document is an adaptation of the original documentation written by Folger Technologies. It exists to enable the community to continue to revise the document without needing to burden the company with managing this document.
 
@@ -47,21 +48,22 @@ Hardware Needed:
 
 1. Take the 375MM 2020 Beam and place it in front of you, we are going to attach the corner brackets, and SK8's before continuing with the frame assembly.
 [Insert Picture Here]
-2. Using (2) 4MM T-Nuts & (2) 4Mx8MM Pan Head Bolts attach the 2020 corner brackets to the center of the 375MM 2020 Beam spacing them about an inch apart. Note: this will be adjusted later.
+2. Using (2) 4MM T-Nuts & (2) 4Mx8MM Pan Head Bolts attach the 2020 corner brackets to the center of the 375MM 2020 Beam spacing them about an inch apart. Note: this will be adjusted later.  
+![Corner brackets mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-003-001.png)
+3. Slide (2) 5MM T-Nuts to the left of the corner brackets, and (2) 5MM T-Nuts to the right of the corner brackets.  
+![Large TNuts Added](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-003-002.png)  
+![Large TNuts Added](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-003-003.png)
+4. Attach the (2) SK8's to the M5 T-Nuts using the (4) M5x8MM Bolts. Note: the tension screws for the SK8's should be facing outwards to make it easier to tighten them later.  
+![SK8s mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-004.png)
+5. Take the other 375MM 2020 Beam and place it in front of you, we are going to attach the motor mount, and the remaining 2 SK8's.  
 TODO: INSERT IMAGE
-3. Slide (2) 5MM T-Nuts to the left of the corner brackets, and (2) 5MM T-Nuts to the right of the corner brackets.
+6. Repeat the process from step 3 to attach the remaining 2 SK8's by sliding (4) M5 T-Nuts onto the top of the 2020 beam and attach the remaining (2) SK8's using (4) M5x8MM Bolts.  
 TODO: INSERT IMAGE
-4. Attach the (2) SK8's to the M5 T-Nuts using the (4) M5x8MM Bolts. Note: the tension screws for the SK8's should be facing outwards to make it easier to tighten them later.
+7. Take the metal motor mount and attach it to the front face of the 375MM 2020 Beam in between the SK8's using (2) M4 T-Nuts & (2) M4x8MM Pan Head Bolts. Note: this will need to be moved left and right to adjust screws later so you can leave it loose for now.  
 TODO: INSERT IMAGE
-5. Take the other 375MM 2020 Beam and place it in front of you, we are going to attach the motor mount, and the remaining 2 SK8's.
+8. Now take (4) 2020 L Mounts & the remaining (2) 365MM 2020 Beams. Slide (2) 2020 L Mounts back to back on the top of each of the 365MM 2020 Beams. Each one should look like the picture below. Do not secure these in place as they will be moved later. Note: Ignore the L Bracket in the left of the picture it shouldn't be there yet.  
 TODO: INSERT IMAGE
-6. Repeat the process from step 3 to attach the remaining 2 SK8's by sliding (4) M5 T-Nuts onto the top of the 2020 beam and attach the remaining (2) SK8's using (4) M5x8MM Bolts.
-TODO: INSERT IMAGE
-7. Take the metal motor mount and attach it to the front face of the 375MM 2020 Beam in between the SK8's using (2) M4 T-Nuts & (2) M4x8MM Pan Head Bolts. Note: this will need to be moved left and right to adjust screws later so you can leave it loose for now.
-TODO: INSERT IMAGE
-8. Now take (4) 2020 L Mounts & the remaining (2) 365MM 2020 Beams. Slide (2) 2020 L Mounts back to back on the top of each of the 365MM 2020 Beams. Each one should look like the picture below. Do not secure these in place as they will be moved later. Note: Ignore the L Bracket in the left of the picture it shouldn't be there yet.
-TODO: INSERT IMAGE
-9. You can now use the remaining (4) 2020 L Mounts to secure the bottom frame together. Tighten the set screws to lock them in place. Use the below pictures as reference. Note: The motor mount is not pictured, but should be attached to the rear 2020 beam.
+9. You can now use the remaining (4) 2020 L Mounts to secure the bottom frame together. Tighten the set screws to lock them in place. Use the below pictures as reference. Note: The motor mount is not pictured, but should be attached to the rear 2020 beam.  
 TODO: INSERT IMAGE
 
 ### Attach Y Carriage Rails & Bearings
@@ -72,15 +74,15 @@ Parts Needed:
 
 Hardware Needed: none
 
-1. Place the bottom frame in front of you so the motor mount is at the back of the printer. Note: This is the front position of the printer. The motor mount is missing from this picture but should be attached to the rear 2020 beam.
+1. Place the bottom frame in front of you so the motor mount is at the back of the printer. Note: This is the front position of the printer. The motor mount is missing from this picture but should be attached to the rear 2020 beam.  
 TODO: INSERT IMAGE
 2. Slide (1) 395MM Chrome Rod through the front right SK8 about half way through.
-TODO: INSERT IMAGE
+TODO: INSERT IMAGE  
 3. Carefully slide (2) LM8UU Bearings onto the Chrome Rod & finish pushing the Chrome Rod through to the other SK8. Be careful not to hit the corner of the rod on the inside of the LM8UU which can cause bearings to fall out.
-TODO: INSERT IMAGE
+TODO: INSERT IMAGE  
 4. Similar to step 3 slide the remaining (1) 395MM Chrome rod into the left side SK8 and slide (1) LM8UU Bearing onto the rod.
-TODO: INSERT IMAGE
-5. Be Sure to tighten the tension screws on the (4) SK8's to secure the chrome rod's in place.
+TODO: INSERT IMAGE  
+5. Be Sure to tighten the tension screws on the (4) SK8's to secure the chrome rod's in place.  
 TODO: INSERT IMAGE
 
 ### Attach & Assemble The Upper Frame
