@@ -19,19 +19,20 @@ The original introduction was:
 
 ## Resources
 Offical RepRap Forum Thread: http://forums.reprap.org/read.php?4,512329,512329#msg-512329
+
 IRC: irc.freenode.net #folgertech
 
 ## Bill of Materials
 TODO: Write this!
 
 ## Build guide
-### Prep
+### 0. Prep
 1. Un-box everything and separate like parts into areas you can grab from.
 2. Get out your calipers or ruler and separate screws into different piles based on size (believe us, it makes things much easier).
 
 TODO: INSERT IMAGE
 
-### Assemble Bottom Half Of Main Frame
+### 1. Assemble Bottom Half Of Main Frame
 Parts Needed: 
 * (2) 365MM 2020 
 * (2) 375MM 2020 
@@ -56,17 +57,21 @@ Hardware Needed:
 4. Attach the (2) SK8's to the M5 T-Nuts using the (4) M5x8MM Bolts. Note: the tension screws for the SK8's should be facing outwards to make it easier to tighten them later.  
 ![SK8s mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-004.png)
 5. Take the other 375MM 2020 Beam and place it in front of you, we are going to attach the motor mount, and the remaining 2 SK8's.  
-TODO: INSERT IMAGE
 6. Repeat the process from step 3 to attach the remaining 2 SK8's by sliding (4) M5 T-Nuts onto the top of the 2020 beam and attach the remaining (2) SK8's using (4) M5x8MM Bolts.  
-TODO: INSERT IMAGE
+TODO: TAKE A PHOTO OF THIS STEP
 7. Take the metal motor mount and attach it to the front face of the 375MM 2020 Beam in between the SK8's using (2) M4 T-Nuts & (2) M4x8MM Pan Head Bolts. Note: this will need to be moved left and right to adjust screws later so you can leave it loose for now.  
-TODO: INSERT IMAGE
-8. Now take (4) 2020 L Mounts & the remaining (2) 365MM 2020 Beams. Slide (2) 2020 L Mounts back to back on the top of each of the 365MM 2020 Beams. Each one should look like the picture below. Do not secure these in place as they will be moved later. Note: Ignore the L Bracket in the left of the picture it shouldn't be there yet.  
-TODO: INSERT IMAGE
-9. You can now use the remaining (4) 2020 L Mounts to secure the bottom frame together. Tighten the set screws to lock them in place. Use the below pictures as reference. Note: The motor mount is not pictured, but should be attached to the rear 2020 beam.  
-TODO: INSERT IMAGE
+![Motor mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-005.png)
 
-### Attach Y Carriage Rails & Bearings
+![Motor mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-006.png)
+
+8. Now take (4) 2020 L Mounts & the remaining (2) 365MM 2020 Beams. Slide (2) 2020 L Mounts back to back on the top of each of the 365MM 2020 Beams. Each one should look like the picture below. Do not secure these in place as they will be moved later. Note: Ignore the L Bracket in the left of the picture it shouldn't be there yet.  
+![Side base](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-007.png)
+9. You can now use the remaining (4) 2020 L Mounts to secure the bottom frame together. Tighten the set screws to lock them in place. Use the below pictures as reference. Note: The motor mount is not pictured, but should be attached to the rear 2020 beam.  
+![Bracket detail](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-008.png)
+![Joint detail](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-009.png)
+![Finished base frame](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-010.png)
+
+### 2. Attach Y Carriage Rails & Bearings
 Parts Needed:
 * (2) 395MM Chrome Rods
 * (3) LM8UU Bearings
@@ -75,17 +80,17 @@ Parts Needed:
 Hardware Needed: none
 
 1. Place the bottom frame in front of you so the motor mount is at the back of the printer. Note: This is the front position of the printer. The motor mount is missing from this picture but should be attached to the rear 2020 beam.  
-TODO: INSERT IMAGE
+![Finished base frame](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-010.png)
 2. Slide (1) 395MM Chrome Rod through the front right SK8 about half way through.
-TODO: INSERT IMAGE  
+![Chrome rod halfway](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-012.png)
 3. Carefully slide (2) LM8UU Bearings onto the Chrome Rod & finish pushing the Chrome Rod through to the other SK8. Be careful not to hit the corner of the rod on the inside of the LM8UU which can cause bearings to fall out.
-TODO: INSERT IMAGE  
+![Add 2 bearings](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-006-013.png)
+![Completely installed rod](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-006-014.png)
 4. Similar to step 3 slide the remaining (1) 395MM Chrome rod into the left side SK8 and slide (1) LM8UU Bearing onto the rod.
-TODO: INSERT IMAGE  
+![Second installed rod](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-006-015.png)
 5. Be Sure to tighten the tension screws on the (4) SK8's to secure the chrome rod's in place.  
-TODO: INSERT IMAGE
 
-### Attach & Assemble The Upper Frame
+### 3. Attach & Assemble The Upper Frame
 Parts Needed:
 * (2) 295MM 2020 Beam
 * (1)375MM 2020 Beam
@@ -101,7 +106,7 @@ TODO: INSERT IMAGE
 3. Now attach the remaining (1) 375MM 2020 Beam to the top of the (2) vertical 295MM 2020 Beams using (2) 2020 L Mounts w/ Set Screws to secure them in place.
 TODO: INSERT IMAGE
 
-### Assemble The Aluminum Heat Bed Plate
+### 4. Assemble The Aluminum Heat Bed Plate
 Parts Needed:
 * (1) Aluminum Bed Plate
 * (3) Printed Bearing Mounts
@@ -125,7 +130,7 @@ TODO: INSERT IMAGE
 TODO: INSERT IMAGE
 
 
-### Solder The MK2B Heated Bed & Attach Thermistor
+### 5. Solder The MK2B Heated Bed & Attach Thermistor
 Parts Needed:
 * (1) MK2B Heated Bed 
 * (1) Thermistor 
@@ -164,7 +169,7 @@ Hardware Needed:
 1. Feed (1) M3X8MM Bolt through each corner hole on the MK2B Heated Bed > Spring > Aluminum Bed Plate > Secure with (1) Thumb Screw. Note: wires should be coming out the back of the printer. Thumb screws just need to be hand tight for now and can be adjusted later.
 TODO: INSERT
 
-### Attach Motors & Motor Mounts
+### 6. Attach Motors & Motor Mounts
 
 Parts Needed:
 * (2) Metal Motor Mounts
@@ -186,7 +191,7 @@ TODO: INSERT IMAGE
 4. Attach the (2) Metal Motor Mounts with the attached motors and acrylic rod keepers to the top right & left corners on the front of the 2020 Frame using (3) M4x8MM Pan Head Bolts and (3) M4-T-Nuts per side. Note: the small holes in the acrylic rod keepers should be facing the outside of the printer. These don't need to be secured to tightly as we will be raising them later.
 TODO: INSERT IMAGE
 
-### Assemble Z Carriage
+### 7. Assemble Z Carriage
 
 Parts Needed: 
 * (7) LM8UU Bearings
@@ -242,7 +247,7 @@ TODO: INSERT IMAGE
 17. Now take (2) Zip Ties and secure the overhanging GT2 belt to the upper belt on each side as picture below.
 TODO: INSERT IMAGE
 
-### Attach the Extruder to the X Carriage
+### 8. Attach the Extruder to the X Carriage
 
 Parts Needed: 
 * (1) Extruder Assembly
@@ -255,7 +260,7 @@ TODO: INSERT IMAGE
 2. Using the 2 screws removed in step 1, attach the motor to the X Carriage by screwing it to the 3D Printed Part: Extruder Carriage as pictured.
 TODO: INSERT IMAGE
 
-### Attach Chrome & Threaded rod to the assembled X Carriage.
+### 9. Attach Chrome & Threaded rod to the assembled X Carriage.
 Parts Needed:
 * (2) 235MM 5MM Threaded Rod
 * (2) 320MM 8MM Chrome Rod
@@ -268,7 +273,7 @@ TODO: INSERT IMAGE
 2. Thread the 235MM 5MM Threaded Rod through the 5mm nut that was previously inserted into the Left and Right 3D Printed Parts. Thread it about half way through so the same amount of thread is showing on the top and bottom of the part. Feed the 320MM 8MM Chrome Rod through the bearings on the Left and Right 3D Printed Parts as pictured below. Note: Be careful when putting the chrome rod in not to push out the ball bearings. Set this aside for later
 TODO: INSERT IMAGE
 
-### Assemble The Front Pulley Assembly
+### 10. Assemble The Front Pulley Assembly
 
 Parts Needed:
 * (2) F623Z Bearings
@@ -285,7 +290,7 @@ Hardware Needed:
 TODO: INSERT IMAGE
 M3x30MM Bolt > M4 Large Washer > 2020 Corner Bracket > M4 Large Washer > M3 Washer > F623ZZ Bearing (flange out) > 623ZZ Bearing > F623ZZ Bearing (flange out) > M3 Washer > M4 Large Washer > 2020 Corner Bracket > M4 Large Washer > Nylock Nut.
 
-### Attach the Pulley and Belt to the Y carriage.
+### 11. Attach the Pulley and Belt to the Y carriage.
 Parts Needed: 
 * (1) 20T Pulley
 * (1) ~1M Meters GT2 Belt 
@@ -299,7 +304,7 @@ TODO: INSERT IMAGE
 TODO: INSERT IMAGE
 3. Attach the belt to the back end of the 3D Printed: Belt Carriage on the bottom of the Aluminum Mount plate, leaving enough slack to zip tie it later. Feed the belt around the 20T Pulley on the motor and then bring it to the front of the printer and go under and above the F23ZZ bearing mount you assembled in Step 12. You can then feed it back and attach it to the front part of the 3D Printed: Belt Carriage again leaving enough slack for zip ties.
 
-### Attach the Couplings and SHF8UU in preparation for the X Carriage to be attached in the next step.
+### 12. Attach the Couplings and SHF8UU in preparation for the X Carriage to be attached in the next step.
 
 Parts Needed:
 * (2) 5x5 Couplings
@@ -317,7 +322,7 @@ TODO: INSERT IMAGE
 4. Attach the (2) 5x5 Couplings to each of the 2.6 Motors mounted to the top of the frame using the 2 set screws provided in the coupling, leave enough over hang so that the second set of set screws in the coupling can be later used to secure the threaded rod we will be inserting.
 TODO: INSERT IMAGE
 
-### Attach X & Z Assembly to the Printer.
+### 13. Attach X & Z Assembly to the Printer.
 
 Parts Needed: 
 * X & Z Assembly
@@ -334,7 +339,7 @@ TODO: INSERT IMAGE
 TODO: INSERT IMAGE
 4. Now screw the 5MM Threaded rod until it feeds up into the 5x5MM Coupling attached to the motor. You want the threaded rod to be snug against the tip of the motor shaft inside the coupler. If you go to far it will try to push the 5MM Nut out of the 3D Printed part below so pay close attention. Once you are confident the rod is touching the motor shaft you can tighten the 2 set screws on the 5x5MM Coupling to secure it in place. Repeat this for both sides.
 
-### Attach the Power Supply.
+### 14. Attach the Power Supply.
 
 Parts Needed:
 * (1) Power Supply
@@ -349,7 +354,7 @@ TODO: INSERT IMAGE
 2.  Using (2) M4X8MM Pan Head Bolts and (2) M4 T-Nuts attach the power supply to the inner side of the right vertical 2020 Beam. Note: the power supply can rest on the bottom frame.
 
 
-### Attach the Acrylic Electronics Mount
+### 15. Attach the Acrylic Electronics Mount
 
 Parts Needed:
 * (1) Acrylic Hardware Mount
@@ -363,7 +368,7 @@ TODO: INSERT IMAGE
 2.  Attach the (1) Acrylic Hardware Mount to the 2020 frame directly above the power supply by using the (2) M4X8MM Pan Head Bolts and using the 2020 L Bracket already in place for the top screw and (1) M4 T-Nut for the lower screw hole. Note: The holes on the acrylic are differently spaced; if they don't line up try the other side.
 TODO: INSERT IMAGE
 
-### Assemble & Mount the Electronics
+### 16. Assemble & Mount the Electronics
 Parts Needed:
 * (1) Mega Board
 * (1) Ramps Board w/ jumpers & power connector
@@ -383,7 +388,7 @@ TODO: INSERT IMAGE
 TODO: INSERT IMAGE
 5.  Attach the now finished Electronics Assembly to the Acrylic Electronics Mount that we previously mounted to the printer using the (3) M3X30MM Bolts and (3) Nylock Nuts. Note: The power connections and usb port should be facing the outside of the printer.
 
-### Attach the Motor Wires
+### 17. Attach the Motor Wires
 Parts Needed:
 * (5) Motor Cables with Pre Wired Ends
 
@@ -399,7 +404,7 @@ TODO: INSERT IMAGE
 TODO: INSERT IMAGE
 5.  Take the wire from the Extruder Assembly and plug it it under the bottom right most stepper driver.
 
-###: Wire the Heated bed and the Extruder Heater to the Ramps Board
+###: 18. Wire the Heated bed and the Extruder Heater to the Ramps Board
 
 Parts Needed:
 * Heated Bed Wires
@@ -417,7 +422,7 @@ TODO: INSERT IMAGE
 4. Use a flat screwdriver to open up the +/- ports of D10 on the Ramp Board's blue power strip. Plug the 2 wires into the +/- ports of D10 and secure the wire in place by tightening down the flat screws. Note: these have no polarity so it doesn't matter which wire goes into which port.
 
 
-### Attach Heated Bed and Extruder Thermistors
+### 19. Attach Heated Bed and Extruder Thermistors
 
 Parts Needed:
 * Heated Bed Thermistor Wires
@@ -437,7 +442,7 @@ TODO: INSERT IMAGE
 TODO: INSERT IMAGE
 
 
-### Mount & Wire the End Stops
+### 12. Mount & Wire the End Stops
 
 Parts Needed:
 * (3) End Stops w/ Wires
@@ -470,7 +475,7 @@ TODO: INSERT IMAGE
 TODO: INSERT IMAGE
 
 
-### Wire Power Cable to the Power Supply
+### 21. Wire Power Cable to the Power Supply
 Parts Needed:
 * (1) Black Power Cable
 
@@ -482,7 +487,7 @@ TODO: INSERT IMAGE
 2.  Because the wire colors can differ from kit to kit, use a multimeter to determine which wires are live and which wire is the ground. We are going to attach the stripped ends of the power supply to contacts #7, #8, and #9 on the power supply. Unscrew the screw for each contact and place the stripped end of the wire under the screw before tightening it back down. If you have the same cable pictured, the 2 black wires can be wired into #8 and #9 which are the Line and Neutral contacts (polarity doesn't matter with these 2). The blue wire can be wired into #7 which is the Earth Ground.
 TODO: INSERT IMAGE
 
-### Wire the Ramps to the Power Supply.
+### 22. Wire the Ramps to the Power Supply.
 Parts Needed:
 * (2) 240MM 16 Gauge Red Wire
 * (2) 240MM 16 Gauge Black Wire
@@ -500,7 +505,7 @@ TODO: INSERT IMAGE
 TODO: INSERT IMAGE
 
 
-### Attach Wire Extension to Extruder Fan & Wire it to The Power Supply.
+### 23. Attach Wire Extension to Extruder Fan & Wire it to The Power Supply.
 
 Parts Needed:
 * (1) 1M 22 Gauge Black Wire
@@ -520,11 +525,11 @@ TODO: INSERT IMAGE
 TODO: INSERT IMAGE
 
 
-### Verify your wiring using the below pictures as a reference.
+### 24. Verify your wiring using the below pictures as a reference.
 TODO: INSERT IMAGE
 
 
-### Mount Filament Feed Assist
+### 25. Mount Filament Feed Assist
 Parts Needed:
 * (1) Wire Keeper
 
@@ -537,7 +542,7 @@ TODO: INSERT IMAGE
 
 
 
-### Attach the Spool Holder
+### 26. Attach the Spool Holder
 
 Parts Needed:
 * (1) 140MM 2020 Beam
@@ -550,7 +555,7 @@ Hardware Needed:
 TODO: INSERT IMAGE
 
 
-### Wire Cleanup & Cosmetics
+### 27. Wire Cleanup & Cosmetics
 Parts Needed:
 * (1) Wire Keepers
 * (1) 1M Wire Wrap
