@@ -100,11 +100,15 @@ Hardware Needed:
 * (3) 2020 L Mounts w/ Set Screws.
 
 1. Take the (2)295MM 2020 Beams and attach them vertically to the left and right side of the Bottom Frame Assembly using the (2) 2020 L Mount's on each side that we placed in step 3:8. Before securing them make sure the back side of the beam is 90MM from the back of the printer.
-TODO: INSERT IMAGE
+![Beam alignment](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-006-016.png)
+![Beam installed](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-006-017.png)
+![Beams installed](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-006-018.png)
 2. Before attaching the top we are going to attach (1) 2020 L Mount to the outside of the left most vertical 295MM 2020 Beam for the Spool Holder which we will attach later.
-TODO: INSERT IMAGE
+![Spool holder L mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-007-019.png)
 3. Now attach the remaining (1) 375MM 2020 Beam to the top of the (2) vertical 295MM 2020 Beams using (2) 2020 L Mounts w/ Set Screws to secure them in place.
-TODO: INSERT IMAGE
+![Top beam](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-007-020.png)
+
+![Overview](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-007-021.png)
 
 ### 4. Assemble The Aluminum Heat Bed Plate
 Parts Needed:
@@ -118,16 +122,17 @@ Hardware Needed:
 * (2) M3x12MM Bolts 
 * (8) M3 Nylock Nuts.
 
-1. Remove the blue protective layer off both sides of the Aluminum Bed Mount.
-TODO: INSERT IMAGE
-2. Take the (3) Printed Bearing Mounts and attach (2) Small Zip Ties to each by sliding the Zip Tie through the guide holes (as pictured).
-TODO: INSERT IMAGE
-3. Using the (6) M3x20MM Bolts & (6) M3 Nylock Nuts, attach the Printed Bearing Holders to the Aluminum Bed Plate. Use the (2) M3x12MM Bolts and (2) M3 Nylock Nuts to attach the Printed Belt Carriage to the Aluminum Bed Mount using the pre drilled holes. Note: the opening on the Printed Belt Carriage is facing the side with 2 bearing holders.
-TODO: INSERT IMAGE
+1. Remove the blue protective layer off both sides of the Aluminum Bed Mount.  
+![Remove plastic](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-007-022.png)
+2. Take the (3) Printed Bearing Mounts and attach (2) Small Zip Ties to each by sliding the Zip Tie through the guide holes (as pictured).  
+![Install zip ties](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-008-025.png)
+3. Using the (6) M3x20MM Bolts & (6) M3 Nylock Nuts, attach the Printed Bearing Holders to the Aluminum Bed Plate. Use the (2) M3x12MM Bolts and (2) M3 Nylock Nuts to attach the Printed Belt Carriage to the Aluminum Bed Mount using the pre drilled holes. Note: the opening on the Printed Belt Carriage is facing the side with 2 bearing holders.  
+![Mount bearing holders](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-008-026.png)
+![All parts mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-008-028.png)
 4. Now we are going to attach the Aluminum Bed Mount to the bearings on the Bottom Frame Assembly of the printer by pushing them down into the LM8UU Bearings. Line up the Printed Bearing Holders over the LM8UU's attached to the Chromed Rod and apply enough pressure to snap the bearings into the Printed Bearing Mounts. Note: you should feel a small pop as it sets into the grooves.
-TODO: INSERT IMAGE
+![Bed attached](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-008-029.png)
 5. Tip the frame backward and close the Small Zip Ties that you previously attached to the Printed Bearing Holders over the LM8UU Bearings securing them in place. Note: Once tightened you can clip the excess material from the Small Zip Ties.
-TODO: INSERT IMAGE
+![Secure zipties](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-009-031.png)
 
 
 ### 5. Solder The MK2B Heated Bed & Attach Thermistor
@@ -142,19 +147,20 @@ Special Tools Needed:
 * Solder
 * Kapton Tape
 
-1. Prepare your MK2B Heated Bed to be soldered.
-2. Apply solder to contacts #1, #2, & #3.
-TODO: INSERT IMAGE
-3. Strip the ends off and apply solder to one end of both the Black & Red 16 Gauge Wire.
-TODO: INSERT IMAGE
+1. Prepare your MK2B Heated Bed to be soldered.  
+![Prep](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-009-034.png)
+2. Apply solder to contacts #1, #2, & #3.  
+![Prep pads](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-009-037.png)
+3. Strip the ends off and apply solder to one end of both the Black & Red 16 Gauge Wire.  
+![Tin leads](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-010-038.png)
 4. Solder the stripped and soldered end of the Black 16 Gauge Wire to both contacts #3 & #2. Note: This is critical, if you do not make contact with both #3 & #2 you will only be running at 12v and will not be able to reach max bed temp.
-TODO: INSERT IMAGE
-5. Solder the stripped and soldered end of the Red 16 Gauge Wire to contact #1.
-TODO: INSERT IMAGE
+![Attach Black to 3 and 2](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-010-039.png)
+5. Solder the stripped and soldered end of the Red 16 Gauge Wire to contact #1.  
+![Attach Red to 1](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-010-039.png)
 6. Place the glass of (1) Thermistor into the small hole in the center of the heated bed.
-TODO: INSERT IMAGE
+![Position thermistor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-010-042.png)
 7. Using the provided Kapton Tape, secure both the Thermistor and the Red & Black 16 Gauge wire to the bottom of the heated bed. Note: use these pictures as a guideline but you can use more/less tape and position the wires as you see fit.
-TODO: INSERT IMAGE
+![Tape it up](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-011-043.png)
 
 Step 8: Attach the Heated Bed to the Aluminum Bed Plate.
 
@@ -166,8 +172,8 @@ Hardware Needed:
 * (4) Thumb Screws
 * (4) M3x16MM Bolts
 
-1. Feed (1) M3X8MM Bolt through each corner hole on the MK2B Heated Bed > Spring > Aluminum Bed Plate > Secure with (1) Thumb Screw. Note: wires should be coming out the back of the printer. Thumb screws just need to be hand tight for now and can be adjusted later.
-TODO: INSERT
+1. Feed (1) M3X8MM Bolt through each corner hole on the MK2B Heated Bed > Spring > Aluminum Bed Plate > Secure with (1) Thumb Screw. Note: wires should be coming out the back of the printer. Thumb screws just need to be hand tight for now and can be adjusted later.  
+![Screw detail for bed mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-011-045.png)
 
 ### 6. Attach Motors & Motor Mounts
 
@@ -184,12 +190,13 @@ Hardware Needed:
 * (8) M3x12MM Bolt
 * (12) Lock Washers
 
-1. Take the (2) Metal Motor Mounts and (2) Acrylic Rod Keepers and attach them to the (2) 2.6 Motors using (8) M3x12MM Bolt & (8) Lock Washers. Note: one acrylic rod keeper should have the small hole facing right, and one should have hole facing left, as pictured. Wire harness should be facing the corner of the bracket.
-TODO: INSERT IMAGE
-2. Mount the (1) 4.8 Motor to the Metal Motor Mount that we attached to the Bottom Frame Assembly earlier in the build guide using (4) M3x8MM Bolts & (4) M3 Lock Washers.
-TODO: INSERT IMAGE
+1. Take the (2) Metal Motor Mounts and (2) Acrylic Rod Keepers and attach them to the (2) 2.6 Motors using (8) M3x12MM Bolt & (8) Lock Washers. Note: one acrylic rod keeper should have the small hole facing right, and one should have hole facing left, as pictured. Wire harness should be facing the corner of the bracket.  
+![Motor mounts installed](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-012-050.png)
+2. Mount the (1) 4.8 Motor to the Metal Motor Mount that we attached to the Bottom Frame Assembly earlier in the build guide using (4) M3x8MM Bolts & (4) M3 Lock Washers.  
+![Motor mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-012-052.png)
 4. Attach the (2) Metal Motor Mounts with the attached motors and acrylic rod keepers to the top right & left corners on the front of the 2020 Frame using (3) M4x8MM Pan Head Bolts and (3) M4-T-Nuts per side. Note: the small holes in the acrylic rod keepers should be facing the outside of the printer. These don't need to be secured to tightly as we will be raising them later.
-TODO: INSERT IMAGE
+![Motor mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-013-054.png)
+![Overview](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-013-055.png)
 
 ### 7. Assemble Z Carriage
 
@@ -212,34 +219,35 @@ Hardware Needed:
 * (2) M5 Nuts
 * (8) Zip Ties
 
-1.  Insert (2) LM8UU Bearings into the (1) 3D Printed: Right Side by pressing them firmly. Note: You can use the table to push them into place if more force is required.
-TODO: INSERT IMAGE
-2.  Insert (1) M5 Nut into the pre cut slot provided.
-TODO: INSERT IMAGE
+1.  Insert (2) LM8UU Bearings into the (1) 3D Printed: Right Side by pressing them firmly. Note: You can use the table to push them into place if more force is required.  
+![Insert bearings](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-013-056.png)
+2.  Insert (1) M5 Nut into the pre cut slot provided.  
+![Insert nut](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-013-057.png)
 3.  Attach the (1) 2.6 Motor to the (1) 3D Printed: Right Side using (3) M3x20MM Bolts. Note you want the motor wire connectors to be facing up so using the picture as a reference it would be facing the upper left.
-TODO: INSERT IMAGE
-4.  Attach the (1) 20T Pulley onto the shaft of the (1) 2.6 Motor and secure with the set screws. Set this aside for now. Note: Tooth side down on the pulley.
-TODO: INSERT IMAGE
+![Attach motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-014-058.png)
+4.  Attach the (1) 20T Pulley onto the shaft of the (1) 2.6 Motor and secure with the set screws. Set this aside for now. Note: Tooth side down on the pulley.  
+![Install pulley](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-014-059.png)
 5.  Take the (1) 3D Printed: Left Side and Place the 2 Bearings into the spot provided, just like you did with the Right Side.
-TODO: INSERT IMAGE
+![Install bearings](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-014-060.png)
 6.  Place the remaining (1) M5 Nut into the spot provided on the (1) 3D Printed: Left Side.
-TODO: INSERT IMAGE
+![Install nut](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-014-061.png)
 7.  Take the (2) F623ZZ Bearings and using (1) M3X16MM Bolt and (1) M3 Nylock Nut to secure the bearings into the (1) 3D Printed: Left Side as pictured. Set aside for now.
-TODO: INSERT IMAGE
+![Install bearings](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-015-063.png)
 8.  Take the (1) 3D Printed: Extruder Carriage and place (6) Zip Ties into the slots provided to later secure the bearings.
-TODO: INSERT IMAGE
+![Install zipties](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-015-064.png)
 9.  Press (3) LM8UU Bearings into the (1) 3D Printed: Extruder Carriage. Secure into place using the Zip Ties & Clip the ends off the Zip Ties. Note: Use the table to press the bearings into place if you are having trouble getting them to lock in.
 TODO: INSERT IMAGE
+![Install bearings](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-015-065.png)
+![Fasten zipties](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-015-066.png)
 10. Very carefully slide the (2) 365MM Chromed rod through the bearings in the (1) 3D Printed: Extruder Carriage. Note: Be very careful when pushing the rod through the bearings not to push out the ball bearings,
-TODO: INSERT IMAGE
-11. Take the 3D Printed Part: Extruder Carriage (with the rods and bearings attached, the 3D Printed Part: Left Side (assembled) and the 3D Printed Part: Right Side (assembled) and set them in front of you. You should have the parts laid out in front of you as pictured. Note: these are mirrored to how they will be when attached to the printer so don't get confused with how we define left and right in the next step.
-TODO: INSERT IMAGE
+![Install rods](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-016-068.png)
+11. Take the 3D Printed Part: Extruder Carriage (with the rods and bearings attached, the 3D Printed Part: Left Side (assembled) and the 3D Printed Part: Right Side (assembled) and set them in front of you. You should have the parts laid out in front of you as pictured. Note: these are mirrored to how they will be when attached to the printer so don't get confused with how we define left and right in the next step. See above image.
 12. Push the 2 ends of the Chrome Rods on the left into the 2 holes in the 3D Printed: Right Side. Push them in so they are snug, we will have to adjust this later.
-TODO: INSERT IMAGE
+![Rods in right side](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-016-069.png)
 13.Push the 2 ends of the Chrome Rods on the right into the 2 holes in the 3D Printed: Left Side.
-TODO: INSERT IMAGE
-14.Push the outside 3D Printed Left/Right together to snug up the assembly. The inner diameter (inside the Right Plastic to the Inside Left Plastic) should be 300MM. This is important to ensure it fits on the printer later.
-TODO: INSERT IMAGE
+![Rods in left side](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-017-070.png)
+14.Push the outside 3D Printed Left/Right together to snug up the assembly. The inner diameter (inside the Right Plastic to the Inside Left Plastic) should be 300MM. This is important to ensure it fits on the printer later.  
+![Assembled](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-017-071.png)
 15. We are now going to take 1M of GT2 and attach it to the back of the 3D Printed: Extruder Carriage by looping it around the right side upper belt block as pictured below. Note: allow a little extra slack we will secure this later with zip ties.
 TODO: INSERT IMAGE
 16. Now take the rest of the belt, feed it over the top of the FZ623ZZ Pulleys on the right side and back to feed under and above the 20T Pulley on the motor on the left side. Bring the belt back and attach to to the left side belt block the same way you did above (but on the opposite side). Trim the extra belt. Note: you want the belt to be tight but not to tight, we can always add a belt spring later to adjust tension.
