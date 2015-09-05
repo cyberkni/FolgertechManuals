@@ -310,8 +310,9 @@ Hardware Needed:
 1. Attach the (1) 20T Pulley to the Large Motor attached to the bottom frame using the set screws in the pulley to secure it in place. Note: Teeth on motor side.
 ![Pulley on motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-020-087.png)
 2. Tip the printer back and using the same method used for the X Carriage belt installation we are going to attach the (1) xM GT2 Belt to the Y carriage.
-TODO: INSERT IMAGE
+![GT2 Setup](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-021-091.png)
 3. Attach the belt to the back end of the 3D Printed: Belt Carriage on the bottom of the Aluminum Mount plate, leaving enough slack to zip tie it later. Feed the belt around the 20T Pulley on the motor and then bring it to the front of the printer and go under and above the F23ZZ bearing mount you assembled in Step 12. You can then feed it back and attach it to the front part of the 3D Printed: Belt Carriage again leaving enough slack for zip ties.
+![GT2 Secured](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-021-090.png)
 
 ### 12. Attach the Couplings and SHF8UU in preparation for the X Carriage to be attached in the next step.
 
@@ -324,12 +325,12 @@ Hardware Needed:
 * (2) M4 T-Nuts
 
 1. Before we can attach the SHF8UU we need to remove 2 set screws from (2) 2020 L Brackets that are attached to the frame. With the printer in front of you, remove the 2 set screws from the 2020 L Brackets that are securing the top frame to the bottom frame on the front of the printer. Note: These are the set screws directly Below the small motors on the bottom frame.
-TODO: INSERT IMAGE
+![Remove these set screws](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-021-092.png)
 2. Now take (1) M4X14MM Bolt and put it through the right hole in the SHF8U (as Pictured) and attach (1) M4 T-Nut to the other end of the bolt loosely, we are going to place this on the bottom frame and use the hole from the removed set screw to attach the other M4X14MM Bolt securing both the frame and the SCH8UU in place. Tighten Both Screws. Note: the tension bolt on the SCH8UU is facing forward to allow access to tighten it later.
-TODO: INSERT IMAGE
+![Install sch8uu](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-022-093.png)
 3. Repeat this process for the opposite side.
 4. Attach the (2) 5x5 Couplings to each of the 2.6 Motors mounted to the top of the frame using the 2 set screws provided in the coupling, leave enough over hang so that the second set of set screws in the coupling can be later used to secure the threaded rod we will be inserting.
-TODO: INSERT IMAGE
+![Attach coupling](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-022-095.png)
 
 ### 13. Attach X & Z Assembly to the Printer.
 
@@ -341,12 +342,13 @@ Hardware Needed: None
 
 
 1. First loosen both of the motor mounts on the top of the printer that are for the Z Axis and pull them up as far as they will go. Secure them in place by tightening one of the M4 bolts. This is just to give you clearance when attaching the X & Z Assembly.
-TODO: INSERT IMAGE
+![Move motors out of the way](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-023-096.png)
 2. Take your X & Z Assembly you previously assembled and set the chrome rods into the SCH8UU's on the bottom of the frame directly below the Z Axis Motors that we just raised. Note: make sure they are pushed in all the way so they touch the 2020 beam below them.
-TODO: INSERT IMAGE
+![Install assembly on sch8uu](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-023-097.png)
 3. Now we are going to lower each of the motor brackets that we raised in step 1 so that they drop down allowing the top of the chrome rod for the X & Z Assembly to sit in the hole in the Acrylic Rod Keeper. Note: Try to keep the bracket squared but make sure the chrome rod is fully seated in the hole.
-TODO: INSERT IMAGE
+![Drop motors down](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-023-099.png)
 4. Now screw the 5MM Threaded rod until it feeds up into the 5x5MM Coupling attached to the motor. You want the threaded rod to be snug against the tip of the motor shaft inside the coupler. If you go to far it will try to push the 5MM Nut out of the 3D Printed part below so pay close attention. Once you are confident the rod is touching the motor shaft you can tighten the 2 set screws on the 5x5MM Coupling to secure it in place. Repeat this for both sides.
+![Threaded rod up to coupling](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-024-101.png)
 
 ### 14. Attach the Power Supply.
 
@@ -359,8 +361,9 @@ Hardware Needed:
 * (x2) M4 T-Nuts
 
 1.  Using (2) M4X8MM Pan Head Bolts attach (2) 2020 Corner Brackets to the left side of the power supply. Note: direction based on the wire connectors facing the top front of the power supply.
-TODO: INSERT IMAGE
+![Corner brackets on PSU](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-024-103.png)
 2.  Using (2) M4X8MM Pan Head Bolts and (2) M4 T-Nuts attach the power supply to the inner side of the right vertical 2020 Beam. Note: the power supply can rest on the bottom frame.
+![PSU Mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-024-104.png)
 
 
 ### 15. Attach the Acrylic Electronics Mount
@@ -373,9 +376,8 @@ Hardware Needed:
 * (1) M4 T-Nut
 
 1.  Similar to attaching the SCH8UU in previous steps, we will be removing a set screw from the 2020 L Bracket that is directly above the power supply 2020 Bracket on the vertical 2020 beam.
-TODO: INSERT IMAGE
 2.  Attach the (1) Acrylic Hardware Mount to the 2020 frame directly above the power supply by using the (2) M4X8MM Pan Head Bolts and using the 2020 L Bracket already in place for the top screw and (1) M4 T-Nut for the lower screw hole. Note: The holes on the acrylic are differently spaced; if they don't line up try the other side.
-TODO: INSERT IMAGE
+![Acrylic Mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-025-106.png)
 
 ### 16. Assemble & Mount the Electronics
 Parts Needed:
