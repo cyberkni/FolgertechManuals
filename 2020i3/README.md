@@ -249,11 +249,12 @@ TODO: INSERT IMAGE
 14.Push the outside 3D Printed Left/Right together to snug up the assembly. The inner diameter (inside the Right Plastic to the Inside Left Plastic) should be 300MM. This is important to ensure it fits on the printer later.  
 ![Assembled](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-017-071.png)
 15. We are now going to take 1M of GT2 and attach it to the back of the 3D Printed: Extruder Carriage by looping it around the right side upper belt block as pictured below. Note: allow a little extra slack we will secure this later with zip ties.
-TODO: INSERT IMAGE
+![Around the pulley](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-017-073.png)
 16. Now take the rest of the belt, feed it over the top of the FZ623ZZ Pulleys on the right side and back to feed under and above the 20T Pulley on the motor on the left side. Bring the belt back and attach to to the left side belt block the same way you did above (but on the opposite side). Trim the extra belt. Note: you want the belt to be tight but not to tight, we can always add a belt spring later to adjust tension.
-TODO: INSERT IMAGE
+![Around pulley](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-018-074.png)
+![GT2 Secured](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-017-072.png)
 17. Now take (2) Zip Ties and secure the overhanging GT2 belt to the upper belt on each side as picture below.
-TODO: INSERT IMAGE
+![Around pulley](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-018-077.png)
 
 ### 8. Attach the Extruder to the X Carriage
 
@@ -264,9 +265,9 @@ Parts Needed:
 Hardware Needed: None.
 
 1. Remove the 2 screws from the top of the motor is part of the Extruder Assembly.
-TODO: INSERT IMAGE
+![Remove screws](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-018-078.png)
 2. Using the 2 screws removed in step 1, attach the motor to the X Carriage by screwing it to the 3D Printed Part: Extruder Carriage as pictured.
-TODO: INSERT IMAGE
+![Attach motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-019-079.png)
 
 ### 9. Attach Chrome & Threaded rod to the assembled X Carriage.
 Parts Needed:
@@ -277,9 +278,9 @@ Parts Needed:
 Hardware Needed: None
 
 1. Take the Assembled X Carriage and the (2) xxMM 5MM Threaded Rod & the (2) xxMM 8MM Chromed rod and lay them out in front of you like so:
-TODO: INSERT IMAGE
+![Carriage Layout](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-019-082.png)
 2. Thread the 235MM 5MM Threaded Rod through the 5mm nut that was previously inserted into the Left and Right 3D Printed Parts. Thread it about half way through so the same amount of thread is showing on the top and bottom of the part. Feed the 320MM 8MM Chrome Rod through the bearings on the Left and Right 3D Printed Parts as pictured below. Note: Be careful when putting the chrome rod in not to push out the ball bearings. Set this aside for later
-TODO: INSERT IMAGE
+![Thread Carriage](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-019-083.png)
 
 ### 10. Assemble The Front Pulley Assembly
 
@@ -295,7 +296,7 @@ Hardware Needed:
 * (2) M4x8MM Pan Head Bolts.
 
 1. Assemble the hardware in the following order going through the 2020 corner brackets you previously attached to the front of the frame during step 3 of assembly.
-TODO: INSERT IMAGE
+![Pulley assembly](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-020-084.png)
 M3x30MM Bolt > M4 Large Washer > 2020 Corner Bracket > M4 Large Washer > M3 Washer > F623ZZ Bearing (flange out) > 623ZZ Bearing > F623ZZ Bearing (flange out) > M3 Washer > M4 Large Washer > 2020 Corner Bracket > M4 Large Washer > Nylock Nut.
 
 ### 11. Attach the Pulley and Belt to the Y carriage.
@@ -307,7 +308,7 @@ Hardware Needed:
 * (2) Zip Ties
 
 1. Attach the (1) 20T Pulley to the Large Motor attached to the bottom frame using the set screws in the pulley to secure it in place. Note: Teeth on motor side.
-TODO: INSERT IMAGE
+![Pulley on motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-020-087.png)
 2. Tip the printer back and using the same method used for the X Carriage belt installation we are going to attach the (1) xM GT2 Belt to the Y carriage.
 TODO: INSERT IMAGE
 3. Attach the belt to the back end of the 3D Printed: Belt Carriage on the bottom of the Aluminum Mount plate, leaving enough slack to zip tie it later. Feed the belt around the 20T Pulley on the motor and then bring it to the front of the printer and go under and above the F23ZZ bearing mount you assembled in Step 12. You can then feed it back and attach it to the front part of the 3D Printed: Belt Carriage again leaving enough slack for zip ties.
