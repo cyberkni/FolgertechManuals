@@ -236,7 +236,6 @@ Hardware Needed:
 8.  Take the (1) 3D Printed: Extruder Carriage and place (6) Zip Ties into the slots provided to later secure the bearings.
 ![Install zipties](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-015-064.png)
 9.  Press (3) LM8UU Bearings into the (1) 3D Printed: Extruder Carriage. Secure into place using the Zip Ties & Clip the ends off the Zip Ties. Note: Use the table to press the bearings into place if you are having trouble getting them to lock in.
-TODO: INSERT IMAGE
 ![Install bearings](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-015-065.png)
 ![Fasten zipties](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-015-066.png)
 10. Very carefully slide the (2) 365MM Chromed rod through the bearings in the (1) 3D Printed: Extruder Carriage. Note: Be very careful when pushing the rod through the bearings not to push out the ball bearings,
@@ -516,13 +515,14 @@ Parts Needed:
 Hardware Needed: None
 
 1. Take all both the (2) 240MM 16 Gauge Red Wire and the (2) 240MM 16 Gauge Black Wire and strip the ends off both sides slightly, as pictured.
-TODO: INSERT IMAGE
+![Strip wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-035-169.png)
 2. Insert one end of each of the 16 gauge wires into the (1) Green Ramps Connector using a small flat head screwdriver to open up the port and feeding the wire ends into it. You can then tighten down the screw to secure the wire in place. It should be Red, Black, Red, Black as pictured below. You can then take it and plug it into the ramps board.
-TODO: INSERT IMAGE
+![Insert wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-036-170.png)
+![Insert wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-036-171.png)
 3. We are now going to wire the opposite ends of these wires to the Power Supply. Take the ends of the (2) 16 Gauge Red Wire and attach them to contacts #2 and #3 on the power supply. These are the positive wires.
-TODO: INSERT IMAGE
+![Insert wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-036-173.png)
 4. Take the ends of the (2) 16 Gauge Black Wire and attach them to contacts #4 and #5 on the power supply. These are the negative wires.
-TODO: INSERT IMAGE
+![Insert wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-036-174.png)
 
 
 ### 23. Attach Wire Extension to Extruder Fan & Wire it to The Power Supply.
@@ -536,17 +536,21 @@ Special Tools Needed:
 * Kapton Tape
 
 1. Cut the end off of the Extruder Fan and Strip the ends of the wires slightly.
-TODO: INSERT IMAGE
+![Cut connector](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-037-177.png)
 2. Take 1M of 22 Gauge Black & Red wire and strip a small amount off of each end of the wires. Using a soldering iron attach the wires to the Extruder Fan wires.
-TODO: INSERT IMAGE
+![Connect wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-037-180.png)
 3. Use either Kapton tape (included) or another non conductive material to cover the exposed wires and stop them from pulling apart easily.
-TODO: INSERT IMAGE
+![Wrap wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-037-182.png)
 4. Plug the other end of the now extended fan wires to the Power Supply. You can plug the Red Wire to contact #1, and the Black Wire to contact #6. This will allow your fan to run all the time and limit jamming or clogging in your extruder. Note: this is our preferred method for wiring the fan.
-TODO: INSERT IMAGE
+![Connect Red](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-038-184.png)
+![Connect Black](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-038-185.png)
 
 
 ### 24. Verify your wiring using the below pictures as a reference.
-TODO: INSERT IMAGE
+![PSU Wiring](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-038-186.png)
+![RAMPS Wiring](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-038-187.png)
+![RAMPS Wiring](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-038-188.png)
+![RAMPS Wiring](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-038-189.png)
 
 
 ### 25. Mount Filament Feed Assist
@@ -558,7 +562,7 @@ Hardware Needed:
 * (1) M4 Washer
 
 1. Remove the bolt from the front left corner of the upper left Z Axis Motor and replace it with (1) Wire Keeper holding it in place by using (1) M3X30MM Bolt and (1) M4 Washer in the empty socket from the removed screw.
-TODO: INSERT IMAGE
+![Wire keeper](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-039-190.png)
 
 
 
@@ -572,7 +576,7 @@ Hardware Needed:
 
 
 1. Using the (1) 2020 L Bracket we left in place on the left side of the printers vertical 2020 beam, attach the (1) 140MM 2020 Beam to it. Then place your last (1) 2020 L Bracket on the top of the 140MM 2020 Beam to stop your spool of filament from sliding off.
-TODO: INSERT IMAGE
+![Spool holder](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-039-191.png)
 
 
 ### 27. Wire Cleanup & Cosmetics
@@ -587,10 +591,9 @@ Hardware Needed:
 
 
 1. This step is honestly purely user preference. If you prefer to copy our printer we use the wire wrap for both the extruder wires and the X axis motor wires. We use the (1) Wire Keeper on the top most 2020 on the printer to attach the extruder cables for a nice clean look and to keep them from floating around. You can use these pictures as reference. Use zip ties to clean up the wiring and tuck it in next to the Ramps Board. Note: Ignore the black cable with the extruder wires these pictures were taken after we installed a proximity sensor to test out our upgrade kit.
-TODO: INSERT IMAGE
+![Wire wrap](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-040-192.png)
 2. You can use the 2M of Black 2020 Wire Conceal you were provided to hide wires inside the 2020 beam slots, or just for purely cosmetic purposes on the face of the printer. Some people even prefer to cut all their wires short and put new crimps on the end, we didn't on this build to make it a bit easier.
-TODO: INSERT IMAGE
-
+![Wire conceal](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-040-193png)
 
 ## Conclusion
 
