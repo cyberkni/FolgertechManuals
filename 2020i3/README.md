@@ -385,19 +385,22 @@ Parts Needed:
 * (1) Ramps Board w/ jumpers & power connector
 * (4) A4988 Stepper Drivers w/ heatsinks
 
+![Electronic Parts](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-025-108.png)
 Hardware Needed:
 * (3) M3X30MM Bolts
 * (3) Nylock Nuts
 
 1.  Attach the jumpers (included in ramps bag) to the (1) Ramps Board. Each stepper driver requires 3 jumpers. Note: we are also placing jumpers on the 5th slot in case you decide to upgrade to a dual extruder sometime in the future.
-TODO: INSERT IMAGE
+![Jumpers](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-026-110.png)
 2.  Attach the (1) Ramps Board to the (1) Mega Board. This can only be installed one way, line up the pins on the underside of the Ramps Board to the connectors on the Mega Board and firmly press them into place.
-TODO: INSERT IMAGE
+![Connected](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-026-114.png)
 3.  Attach the heat sinks that came with the (4) A4988 Stepper Drivers to the Stepper Drivers by removing the sticky back protector from the bottom of the heat sink and sticking it to the chip on the top of the Stepper Drivers
-TODO: INSERT IMAGE
+![Peel](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-026-116.png)
+![Stick](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-026-117.png)
 4.  Attach the (4) A4988 Stepper Drivers to the Ramps Board. Make note of the orientation of the steppers when attaching them. The tuning screws on all of them should be facing to the left of the power connections on the Ramps Board. Note: line up the pins with the connectors starting from the right as there are only just enough holes for the pins as necessary so if you are off by 1 you will come short at the end.
-TODO: INSERT IMAGE
+![Insert Steppers](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-027-120.png)
 5.  Attach the now finished Electronics Assembly to the Acrylic Electronics Mount that we previously mounted to the printer using the (3) M3X30MM Bolts and (3) Nylock Nuts. Note: The power connections and usb port should be facing the outside of the printer.
+![Attach boards](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-027-122.png)
 
 ### 17. Attach the Motor Wires
 Parts Needed:
@@ -406,14 +409,15 @@ Parts Needed:
 Hardware Needed: None
 
 1.  Take the white end from all of your Motor Cables and plug one of them into each of the motors so that each motor has a wire attached to it.
-TODO: INSERT IMAGE
+![Connect motor wire](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-027-125.png)
 2.  Now take (2) wires from the Z axis (top) motors and plug them into the ramps board under the left most top stepper driver. Note: these motors mirror each other so it doesn't matter which is on top and which is on the bottom.
-TODO: INSERT IMAGE
+![Connect Z motors](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-028-127.png)
 3.  Take the wire from the Y Carriage Motor and plug it in under the 2nd (middle) stepper driver.
-TODO: INSERT IMAGE
+![Connect Y motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-028-130.png)
 4.  Take the wire from the Z Carriage Assembly (the motor with the 20T Pulley) and plug it in under the 3rd (right most) stepper driver.
-TODO: INSERT IMAGE
+![Connect X motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-028-132.png)
 5.  Take the wire from the Extruder Assembly and plug it it under the bottom right most stepper driver.
+![Connect Extruder motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-028-134.png)
 
 ###: 18. Wire the Heated bed and the Extruder Heater to the Ramps Board
 
@@ -425,12 +429,13 @@ Special Tools Needed: Wire Strippers
 
 
 1. Take your Black & Red 16 Gauge wires from your heated bed and strip the ends off exposing the wiring underneath as pictured.
-TODO: INSERT IMAGE
+![Strip Wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-029-135.png)
 2. Use a flat screwdriver to open up the +/- ports of D8 on the Ramp Board's blue power strip. Plug the Black (-) 16 Gauge wire into the first hole (-) and plug the Red (+) 16 Gauge wire into the second hole (-). Tighten down the flat screws to secure the wire in place.
-TODO: INSERT IMAGE
+![Insert Wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-029-136.png)
 3. Take the red wires from the extruder and strip the ends off to expose a small amount of wire, as pictured.
-TODO: INSERT IMAGE
+![Strip Wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-029-138.png)
 4. Use a flat screwdriver to open up the +/- ports of D10 on the Ramp Board's blue power strip. Plug the 2 wires into the +/- ports of D10 and secure the wire in place by tightening down the flat screws. Note: these have no polarity so it doesn't matter which wire goes into which port.
+![Insert Wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-030-139.png)
 
 
 ### 19. Attach Heated Bed and Extruder Thermistors
@@ -446,11 +451,12 @@ Special Tools Needed:
 * Wire Strippers
 
 1.  First take both pairs of thermistor wires (Heated Bed & Extruder) and strip the ends off as pictured below. Attach the crimp ends to each wire using either pliers or a crimp tool if you have one available. Plug the now crimped ends into the black 2 Pin Molex Connector (polarity does not matter here) as pictured below.
-TODO: INSERT IMAGE
+![molex bits](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-030-140.png)
+![molex built](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-030-143.png)
 2. Take the Extruder Thermistor and attach it to the ramps board. This thermistor plugs into the pins directly below the left most top Stepper Driver on the far right side of the pin set.
-TODO: INSERT IMAGE
+![Connect probe](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-030-144.png)
 3. Take the Heated Bed Thermistor and attach it to the ramps board directly to the left and right next too the Extruder Thermistor wire.
-TODO: INSERT IMAGE
+![Connect other probe](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-031-146.png)
 
 
 ### 12. Mount & Wire the End Stops
@@ -465,25 +471,28 @@ Hardware Needed:
 * (6) M3 Nylock Nuts
 
 1.  Plug the white end of the wires into each of the End Stops.
-TODO: INSERT IMAGE
+![Connect end stop](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-031-147.png)
 2.  We are going to attach the Z Axis End Stop. Take (1) End Stop and mount it to (1) 3D Printed End stop using (1) M3X8MM Bolt & (1) M3 Nylock Nut as pictured. Note: This only requires 1 bolt, to the right of the limit switch.
-TODO: INSERT IMAGE
+![Mount endstop](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-031-148.png)
 3.  Mount the now assembled End Stop to the vertical chrome rod on the right side of the printer using (1) M3X18MM Bolts and (1) M3 Nylock Nut.
-TODO: INSERT IMAGE
+![Install end stop](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-032-150.png)
 4.  Position the End Stop so that the limit switch makes contact with the 3D Printed: Right Side plastic part. Note: when homing the printer you want the Z axis to come down and click the limit switch at a point where the Hot End Nozzle is only a paper width from the heated bed. You can eyeball it for now, and move it up and down when you calibrate it later so that it is in the correct vertical position.
-TODO: INSERT IMAGE
+![Position end stop](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-032-151.png)
 5.  Attach another End Stop to one of the 3D Printed End Stop Mounts using (2) M3X8MM Bolts and (2) M3 Nylock Nuts.
-TODO: INSERT IMAGE
+![Position end stop](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-032-152.png)
 6.  Attach the now assembled End Stop just to the left of the 3D Printed: Right Side on the lower Chromed Rod using (1) M3X18MM Bolts. Note: the limit switch should be hitting the motor on the extruder when it moves over. Position the End Stop on the Chromed Rod so that when the motor makes contact with the switch the Extruder Nozzle is just to the right edge of the heated bed print area.
-TODO: INSERT IMAGE
+![Position end stop](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-033-154.png)
 7.  We are going to mount the Y carriage End Stop. This one is a bit trickier to mount. The End Stop mounts to the 3D Printed End Stop Mount using the same (1) M3X18MM Bolt and (1) M3 Nylock Nut that is used to mount the 3D Printed End Stop Mount to the Chromed Rod. Clip the 3D Printed End Stop Mount to the rear of the printer on the right most Chromed Rod about an inch from the SK8. Note: this limit switch should hit the 3D Printed Bearing holder under the Aluminum Mount Plate and you want the switch to make contact when the Extruder Nozzle is at the front most of the heated bed print area.
-TODO: INSERT IMAGE
+![Position end stop](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-033-156.png)
 8.  Take the end of the wire from the Z Axis End Stop. The End Stops plug into the pin set that is on the lower left corner of the ramps board. There are 6 rows of pins. Plug the End Stop into the 3rd row over. Use the picture as a reference. The red wire should be facing up, if plugged in backwards it will short the ramps causing permanent damage.
-TODO: INSERT IMAGE
+![Z Endstop wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-033-157.png)
+![Z Endstop connected](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-033-158.png)
 9.  Take the end of the wire from the Y Carriage End Stop. Skip a row and plug this End Stop into the 5th row, one over from the previous End Stop. Use the picture as a reference. The red wire should be facing up, if plugged in backwards it will short the ramps causing permanent damage.
-TODO: INSERT IMAGE
+![Y Endstop wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-034-159.png)
+![Y Endstop connected](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-034-160.png)
 10. Take the end of the wire from the X Carriage End Stop. Again you are going to skip a row from the previous plugged in end Stop and plug this End Stop into the 7th row. Use the picture as a reference. The red wire should be facing up, if plugged in backwards it will short the ramps causing permanent damage.
-TODO: INSERT IMAGE
+![X Endstop wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-034-161.png)
+![X Endstop connected](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-034-162.png)
 
 
 ### 21. Wire Power Cable to the Power Supply
@@ -494,9 +503,9 @@ Special Tools Needed:
 * Multimeter
 
 1.  Take the Black Power cable and cut off the female end of the cable. Strep off a bit of the black outer protector, and strip the wires inside as pictured.
-TODO: INSERT IMAGE
+![Cut power cable](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-034-164.png)
 2.  Because the wire colors can differ from kit to kit, use a multimeter to determine which wires are live and which wire is the ground. We are going to attach the stripped ends of the power supply to contacts #7, #8, and #9 on the power supply. Unscrew the screw for each contact and place the stripped end of the wire under the screw before tightening it back down. If you have the same cable pictured, the 2 black wires can be wired into #8 and #9 which are the Line and Neutral contacts (polarity doesn't matter with these 2). The blue wire can be wired into #7 which is the Earth Ground.
-TODO: INSERT IMAGE
+![Wire up power](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-035-167.png)
 
 ### 22. Wire the Ramps to the Power Supply.
 Parts Needed:
