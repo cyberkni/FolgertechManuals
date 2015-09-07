@@ -593,7 +593,7 @@ Hardware Needed:
 1. This step is honestly purely user preference. If you prefer to copy our printer we use the wire wrap for both the extruder wires and the X axis motor wires. We use the (1) Wire Keeper on the top most 2020 on the printer to attach the extruder cables for a nice clean look and to keep them from floating around. You can use these pictures as reference. Use zip ties to clean up the wiring and tuck it in next to the Ramps Board. Note: Ignore the black cable with the extruder wires these pictures were taken after we installed a proximity sensor to test out our upgrade kit.
 ![Wire wrap](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-040-192.png)
 2. You can use the 2M of Black 2020 Wire Conceal you were provided to hide wires inside the 2020 beam slots, or just for purely cosmetic purposes on the face of the printer. Some people even prefer to cut all their wires short and put new crimps on the end, we didn't on this build to make it a bit easier.
-![Wire conceal](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-040-193png)
+![Wire conceal](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-040-193.png)
 
 ## Conclusion
 
