@@ -25,6 +25,21 @@ IRC: irc.freenode.net #folgertech
 ## Bill of Materials
 TODO: Write this!
 
+## Overview
+Understanding the end goals of the printer will help with the build process.
+
+### Axes
+The extruder is connected to the X axis. The moving platform axis is Y. The Z axis is the one powered by the two steppers connected to the threaded rods. See the image below.
+![Axes](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/axis-diagram.png)
+
+### Origin
+In this build and related firmware the origin (0,0,0) is the following:
+* X is all the way to the right
+* Y is all the way to the back of the printer
+* Z is at the bottom
+
+This means that the origin should be the front right corner of the print bed. When you home the printer the extruder should end up here.
+
 ## Build guide
 ### 0. Prep
 1. Un-box everything and separate like parts into areas you can grab from.
@@ -47,6 +62,8 @@ Hardware Needed:
 * (4) M4x8MM Pan Head Bolts 
 * (8) M5x8MM Bolts
 
+*NOTE* recent kits have included M5x8mm bolts which are just a bit too short to complete step 4. A quick trip to the hardware store for M5x10mm screws is recommened(12mm length will work too).
+
 1. Take the 375MM 2020 Beam and place it in front of you, we are going to attach the corner brackets, and SK8's before continuing with the frame assembly.
 [Insert Picture Here]
 2. Using (2) 4MM T-Nuts & (2) 4Mx8MM Pan Head Bolts attach the 2020 corner brackets to the center of the 375MM 2020 Beam spacing them about an inch apart. Note: this will be adjusted later.  
@@ -58,18 +75,16 @@ Hardware Needed:
 ![SK8s mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-004.png)
 5. Take the other 375MM 2020 Beam and place it in front of you, we are going to attach the motor mount, and the remaining 2 SK8's.  
 6. Repeat the process from step 3 to attach the remaining 2 SK8's by sliding (4) M5 T-Nuts onto the top of the 2020 beam and attach the remaining (2) SK8's using (4) M5x8MM Bolts.  
-TODO: TAKE A PHOTO OF THIS STEP
+TODO: TAKE A PHOTO OF THIS STEP  
 7. Take the metal motor mount and attach it to the front face of the 375MM 2020 Beam in between the SK8's using (2) M4 T-Nuts & (2) M4x8MM Pan Head Bolts. Note: this will need to be moved left and right to adjust screws later so you can leave it loose for now.  
-![Motor mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-005.png)
-
-![Motor mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-006.png)
-
+![Motor mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-005.png)  
+![Motor mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-006.png)  
 8. Now take (4) 2020 L Mounts & the remaining (2) 365MM 2020 Beams. Slide (2) 2020 L Mounts back to back on the top of each of the 365MM 2020 Beams. Each one should look like the picture below. Do not secure these in place as they will be moved later. Note: Ignore the L Bracket in the left of the picture it shouldn't be there yet.  
 ![Side base](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-007.png)
 9. You can now use the remaining (4) 2020 L Mounts to secure the bottom frame together. Tighten the set screws to lock them in place. Use the below pictures as reference. Note: The motor mount is not pictured, but should be attached to the rear 2020 beam.  
-![Bracket detail](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-008.png)
-![Joint detail](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-009.png)
-![Finished base frame](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-010.png)
+![Bracket detail](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-008.png)  
+![Joint detail](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-009.png)  
+![Finished base frame](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-010.png)  
 
 ### 2. Attach Y Carriage Rails & Bearings
 Parts Needed:
@@ -80,10 +95,10 @@ Parts Needed:
 Hardware Needed: none
 
 1. Place the bottom frame in front of you so the motor mount is at the back of the printer. Note: This is the front position of the printer. The motor mount is missing from this picture but should be attached to the rear 2020 beam.  
-![Finished base frame](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-010.png)
-2. Slide (1) 395MM Chrome Rod through the front right SK8 about half way through.
-![Chrome rod halfway](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-012.png)
-3. Carefully slide (2) LM8UU Bearings onto the Chrome Rod & finish pushing the Chrome Rod through to the other SK8. Be careful not to hit the corner of the rod on the inside of the LM8UU which can cause bearings to fall out.
+![Finished base frame](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-010.png)  
+2. Slide (1) 395MM Chrome Rod through the front right SK8 about half way through.  
+![Chrome rod halfway](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-012.png)  
+3. Carefully slide (2) LM8UU Bearings onto the Chrome Rod & finish pushing the Chrome Rod through to the other SK8. Be careful not to hit the corner of the rod on the inside of the LM8UU which can cause bearings to fall out.  
 ![Add 2 bearings](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-006-013.png)
 ![Completely installed rod](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-006-014.png)
 4. Similar to step 3 slide the remaining (1) 395MM Chrome rod into the left side SK8 and slide (1) LM8UU Bearing onto the rod.
