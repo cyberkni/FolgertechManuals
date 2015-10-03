@@ -1,43 +1,42 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**
+- [Introduction](#)
+- [Resources](#)
+- [Bill of Materials](#)
+- [Overview](#)
+	- [Axes](#)
+	- [Origin](#)
+- [Build guide](#)
+	- [0. Prep](#)
+	- [1. Assemble Bottom Half Of Main Frame](#)
+	- [2. Attach Y Carriage Rails & Bearings](#)
+	- [3. Attach & Assemble The Upper Frame](#)
+	- [4. Assemble The Aluminum Heat Bed Plate](#)
+	- [5. Solder The MK2B Heated Bed & Attach Thermistor](#)
+	- [6. Attach Motors & Motor Mounts](#)
+	- [7. Assemble Z Carriage](#)
+	- [8. Attach the Extruder to the X Carriage](#)
+	- [9. Attach Chrome & Threaded rod to the assembled X Carriage.](#)
+	- [10. Assemble The Front Pulley Assembly](#)
+	- [11. Attach the Pulley and Belt to the Y carriage.](#)
+	- [12. Attach the Couplings and SHF8UU in preparation for the X Carriage to be attached in the next step.](#)
+	- [13. Attach X & Z Assembly to the Printer.](#)
+	- [14. Attach the Power Supply.](#)
+	- [15. Attach the Acrylic Electronics Mount](#)
+	- [16. Assemble & Mount the Electronics](#)
+	- [17. Attach the Motor Wires](#)
+	- [: 18. Wire the Heated bed and the Extruder Heater to the Ramps Board](#)
+	- [19. Attach Heated Bed and Extruder Thermistors](#)
+	- [12. Mount & Wire the End Stops](#)
+	- [21. Wire Power Cable to the Power Supply](#)
+	- [22. Wire the Ramps to the Power Supply.](#)
+	- [23. Attach Wire Extension to Extruder Fan & Wire it to The Power Supply.](#)
+	- [24. Verify your wiring using the below pictures as a reference.](#)
+	- [25. Mount Filament Feed Assist](#)
+	- [26. Attach the Spool Holder](#)
+	- [27. Wire Cleanup & Cosmetics](#)
+- [Conclusion](#)
 
-- [FOLGER TECHNOLOGIES, LLC 2020 i3 – 3D Printer Kit Build Guide](#)
-	- [Introduction](#)
-	- [Resources](#)
-	- [Bill of Materials](#)
-	- [Overview](#)
-		- [Axes](#)
-		- [Origin](#)
-	- [Build guide](#)
-		- [0. Prep](#)
-		- [1. Assemble Bottom Half Of Main Frame](#)
-		- [2. Attach Y Carriage Rails & Bearings](#)
-		- [3. Attach & Assemble The Upper Frame](#)
-		- [4. Assemble The Aluminum Heat Bed Plate](#)
-		- [5. Solder The MK2B Heated Bed & Attach Thermistor](#)
-		- [6. Attach Motors & Motor Mounts](#)
-		- [7. Assemble Z Carriage](#)
-		- [8. Attach the Extruder to the X Carriage](#)
-		- [9. Attach Chrome & Threaded rod to the assembled X Carriage.](#)
-		- [10. Assemble The Front Pulley Assembly](#)
-		- [11. Attach the Pulley and Belt to the Y carriage.](#)
-		- [12. Attach the Couplings and SHF8UU in preparation for the X Carriage to be attached in the next step.](#)
-		- [13. Attach X & Z Assembly to the Printer.](#)
-		- [14. Attach the Power Supply.](#)
-		- [15. Attach the Acrylic Electronics Mount](#)
-		- [16. Assemble & Mount the Electronics](#)
-		- [17. Attach the Motor Wires](#)
-		- [: 18. Wire the Heated bed and the Extruder Heater to the Ramps Board](#)
-		- [19. Attach Heated Bed and Extruder Thermistors](#)
-		- [12. Mount & Wire the End Stops](#)
-		- [21. Wire Power Cable to the Power Supply](#)
-		- [22. Wire the Ramps to the Power Supply.](#)
-		- [23. Attach Wire Extension to Extruder Fan & Wire it to The Power Supply.](#)
-		- [24. Verify your wiring using the below pictures as a reference.](#)
-		- [25. Mount Filament Feed Assist](#)
-		- [26. Attach the Spool Holder](#)
-		- [27. Wire Cleanup & Cosmetics](#)
-	- [Conclusion](#)
-	- 
+
 # FOLGER TECHNOLOGIES, LLC 2020 i3 – 3D Printer Kit Build Guide
 ![](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-001-000.png)
 ## Introduction
@@ -473,7 +472,7 @@ Hardware Needed: None
 5.  Take the wire from the Extruder Assembly and plug it it under the bottom right most stepper driver.
 ![Connect Extruder motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-028-134.png)
 
-###: 18. Wire the Heated bed and the Extruder Heater to the Ramps Board
+### 18. Wire the Heated bed and the Extruder Heater to the Ramps Board
 
 Parts Needed:
 * Heated Bed Wires
@@ -513,7 +512,7 @@ Special Tools Needed:
 ![Connect other probe](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-031-146.png)
 
 
-### 12. Mount & Wire the End Stops
+### 20. Mount & Wire the End Stops
 
 Parts Needed:
 * (3) End Stops w/ Wires
