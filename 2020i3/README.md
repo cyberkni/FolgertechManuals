@@ -1,6 +1,6 @@
 **Table of Contents**
 
-- [Introduction](#Introduction)
+- [Introduction](#introduction)
 - [Resources](#Resources)
 - [Bill of Materials](#Bill of Materials)
 - [Overview](#Overview)
