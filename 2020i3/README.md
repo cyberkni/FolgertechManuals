@@ -64,7 +64,22 @@ Offical RepRap Forum Thread: http://forums.reprap.org/read.php?4,512329,512329#m
 
 IRC: irc.freenode.net #folgertech
 
+## Optional tools that you'll probably want to have
+
+* **NOTE: There is an allen wrench in the bag with the motor belt, but it is not the only one you will need.**
+* A set of both US and metric allen keys (or allen wrenches, or hex keys, or hex wrenches, you get the point)
+* A pair of needle-nose pliers
+* A pair of wire-strippers (very optional, you may just use a knife)
+* A pair of wire-cutters (usually combined with the tool above, but if not, get a separate pair)
+* A 7/32 socket and a socket driver (this is for the nylock nuts, will make your life much easier)
+* A pair of scissors (again, very optional, but everyone has scissors)
+* A utility knife/blade
+* A clean workspace
+* Small cups for sorting hardware (some have suggested egg cartons, but there are a LOT of different screws, and nuts, etc.)
+* Time... Between 1-3 days depending on your skills, endurance, and patience
+
 ## Bill of Materials
+
 TODO: Write this!
 
 ## Overview
@@ -85,6 +100,9 @@ This means that the origin should be the front right corner of the print bed. Wh
 
 ## Build guide
 ### 0. Prep
+
+*NOTE: It has been noticed that some screws in this build guide (particularly in the pictures) don't match the screws which you're given. Make sure to use common sense over instruction, as in: Don't force parts together, don't strip mounts and motors because the screw isn't fitting. If there is an over abundance of one type of screw in your kit, don't be afraid to use one of them, they are usually extras.*
+
 1\. Un-box everything and separate like parts into areas you can grab from.
 
 2\. Get out your calipers or ruler and separate screws into different piles based on size (believe us, it makes things much easier).
