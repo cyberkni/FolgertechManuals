@@ -86,6 +86,7 @@ This means that the origin should be the front right corner of the print bed. Wh
 ## Build guide
 ### 0. Prep
 1\. Un-box everything and separate like parts into areas you can grab from.
+
 2\. Get out your calipers or ruler and separate screws into different piles based on size (believe us, it makes things much easier).
 
 TODO: INSERT IMAGE
@@ -109,7 +110,9 @@ Hardware Needed:
 *NOTE* recent kits have included M5x8mm bolts which are just a bit too short to complete step 4. A quick trip to the hardware store for M5x10mm screws is recommened(12mm length will work too).
 
 1\. Take the 375MM 2020 Beam and place it in front of you, we are going to attach the corner brackets, and SK8's before continuing with the frame assembly.
+
 [Insert Picture Here]
+
 2\. Using (2) 4MM T-Nuts & (2) 4Mx8MM Pan Head Bolts attach the 2020 corner brackets to the center of the 375MM 2020 Beam spacing them about an inch apart. Note: this will be adjusted later.
 
 ![Corner brackets mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-003-001.png)
@@ -124,8 +127,10 @@ Hardware Needed:
 ![SK8s mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-004.png)
 
 5\. Take the other 375MM 2020 Beam and place it in front of you, we are going to attach the motor mount, and the remaining 2 SK8's.
+
 6\. Repeat the process from step 3 to attach the remaining 2 SK8's by sliding (4) M5 T-Nuts onto the top of the 2020 beam and attach the remaining (2) SK8's using (4) M5x8MM Bolts.
 TODO: TAKE A PHOTO OF THIS STEP
+
 7\. Take the metal motor mount and attach it to the front face of the 375MM 2020 Beam in between the SK8's using (2) M4 T-Nuts & (2) M4x8MM Pan Head Bolts. Note: this will need to be moved left and right to adjust screws later so you can leave it loose for now.
 
 ![Motor mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-005.png)
@@ -308,7 +313,7 @@ Hardware Needed:
 
 ![Motor mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-012-052.png)
 
-4\. Attach the (2) Metal Motor Mounts with the attached motors and acrylic rod keepers to the top right & left corners on the front of the 2020 Frame using (3) M4x8MM Pan Head Bolts and (3) M4-T-Nuts per side. Note: the small holes in the acrylic rod keepers should be facing the outside of the printer. These don't need to be secured to tightly as we will be raising them later.
+3\. Attach the (2) Metal Motor Mounts with the attached motors and acrylic rod keepers to the top right & left corners on the front of the 2020 Frame using (3) M4x8MM Pan Head Bolts and (3) M4-T-Nuts per side. Note: the small holes in the acrylic rod keepers should be facing the outside of the printer. These don't need to be secured to tightly as we will be raising them later.
 
 ![Motor mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-013-054.png)
 ![Overview](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-013-055.png)
@@ -376,6 +381,7 @@ Hardware Needed:
 ![Install rods](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-016-068.png)
 
 11\. Take the 3D Printed Part: Extruder Carriage (with the rods and bearings attached, the 3D Printed Part: Left Side (assembled) and the 3D Printed Part: Right Side (assembled) and set them in front of you. You should have the parts laid out in front of you as pictured. Note: these are mirrored to how they will be when attached to the printer so don't get confused with how we define left and right in the next step. See above image.
+
 12\. Push the 2 ends of the Chrome Rods on the left into the 2 holes in the 3D Printed: Right Side. Push them in so they are snug, we will have to adjust this later.
 
 ![Rods in right side](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-016-069.png)
@@ -493,6 +499,7 @@ Hardware Needed:
 ![Install sch8uu](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-022-093.png)
 
 3\. Repeat this process for the opposite side.
+
 4\. Attach the (2) 5x5 Couplings to each of the 2.6 Motors mounted to the top of the frame using the 2 set screws provided in the coupling, leave enough over hang so that the second set of set screws in the coupling can be later used to secure the threaded rod we will be inserting.
 
 ![Attach coupling](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-022-095.png)
@@ -550,6 +557,7 @@ Hardware Needed:
 * (1) M4 T-Nut
 
 1\. Similar to attaching the SCH8UU in previous steps, we will be removing a set screw from the 2020 L Bracket that is directly above the power supply 2020 Bracket on the vertical 2020 beam.
+
 2\. Attach the (1) Acrylic Hardware Mount to the 2020 frame directly above the power supply by using the (2) M4X8MM Pan Head Bolts and using the 2020 L Bracket already in place for the top screw and (1) M4 T-Nut for the lower screw hole. Note: The holes on the acrylic are differently spaced; if they don't line up try the other side.
 
 ![Acrylic Mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-025-106.png)
@@ -622,7 +630,6 @@ Parts Needed:
 * Extruder Heater Wires
 
 Special Tools Needed: Wire Strippers
-
 
 1\. Take your Black & Red 16 Gauge wires from your heated bed and strip the ends off exposing the wiring underneath as pictured.
 
@@ -732,7 +739,7 @@ Special Tools Needed:
 
 ![Cut power cable](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-034-164.png)
 
-2\. Because the wire colors can differ from kit to kit, use a multimeter to determine which wires are live and which wire is the ground. We are going to attach the stripped ends of the power supply to contacts #7, #8, and #9 on the power supply. Unscrew the screw for each contact and place the stripped end of the wire under the screw before tightening it back down. If you have the same cable pictured, the 2 black wires can be wired into #8 and #9 which are the Line and Neutral contacts (polarity doesn't matter with these 2). The blue wire can be wired into #7 which is the Earth Ground.
+2\. Because the wire colors can differ from kit to kit, use a multimeter to determine which wires are live and which wire is the ground. We are going to attach the stripped ends of the power supply to contacts #7, #8, and #9 on the power supply. Unscrew the screw for each contact and place the stripped end of the wire under the screw before tightening it back down. If you have the same cable pictured, the 2 black wires can be wired into #8 and #9 which are the Line and Neutral contacts (polarity doesn't matter with these two). The blue wire can be wired into #7 which is the Earth Ground.
 
 ![Wire up power](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-035-167.png)
 
@@ -845,8 +852,18 @@ Hardware Needed:
 
 ## Conclusion
 
-Congratulations, you have officially finished building the Folger Tech 2020 i3 3D Printer Kit!! You are now ready to follow up with the configuration guide and get started with your first print! If you have any suggestions for changes to this guide, spots you thought need improvement or steps that might have been missing all together please email orders@folgertech.com. We value your feedback and we want to make sure this guide is as easy to follow as possible!
+Done! Wow, take a break!
 
-Thank you for your continued business and support!
+When you're ready, get started with the configuration guide on [FolgerTech's Google Drive](https://drive.google.com/open?id=0B9b1NbuMK524fldIWWVCa0xfSXAtZmttcDhrbjBMeFNWcENBdVUzWnhtWDZ2YWdHVXpoUXM&authuser=0) (if that link is broken, you should be able to find it [here](http://folgertech.com/products/folger-tech-reprap-2020-prusa-i3-full-aluminum-3d-printer-kit)).
 
-- The Folger Tech Team
+If you have any suggestions or changes you wish to address on this manual, notify us with an [issue](https://github.com/cyberkni/FolgertechManuals/issues) or just edit the manual yourself.
+
+Thanks!
+
+The original conclusion was:
+
+> Congratulations, you have officially finished building the Folger Tech 2020 i3 3D Printer Kit!! You are now ready to follow up with the configuration guide and get started with your first print! If you have any suggestions for changes to this guide, spots you thought need improvement or steps that might have been missing all together please email orders@folgertech.com. We value your feedback and we want to make sure this guide is as easy to follow as possible!
+
+> Thank you for your continued business and support!
+
+> - The Folger Tech Team
