@@ -101,7 +101,7 @@ This means that the origin should be the front right corner of the print bed. Wh
 ## Build guide
 ### 0. Prep
 
-*NOTE: It has been noticed that some screws in this build guide (particularly in the pictures) don't match the screws which you're given. Make sure to use common sense over instruction, as in: Don't force parts together, don't strip mounts and motors because the screw isn't fitting. If there is an over abundance of one type of screw in your kit, don't be afraid to use one of them, they are usually extras.*
+*NOTE: It has been noticed that some screws in this build guide (particularly in the pictures) don't match the screws which you're given. Make sure to use common sense over instruction, as in: Don't force parts together, don't strip mounts and motors because the screw isn't fitting or is too long. If there is an over abundance of one type of screw in your kit, don't be afraid to use some of them, they are usually extras.*
 
 1\. Un-box everything and separate like parts into areas you can grab from.
 
@@ -240,16 +240,16 @@ Hardware Needed:
 
 ![Install zip ties](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-008-025.png)
 
-3\. Using the (6) M3x20MM Bolts & (6) M3 Nylock Nuts, attach the Printed Bearing Holders to the Aluminum Bed Plate. Use the (2) M3x12MM Bolts and (2) M3 Nylock Nuts to attach the Printed Belt Carriage to the Aluminum Bed Mount using the pre drilled holes. Note: the opening on the Printed Belt Carriage is facing the side with 2 bearing holders.
+3\. Using the (6) M3x20MM Bolts & (6) M3 Nylock Nuts, attach the Printed Bearing Holders to the Aluminum Bed Plate. Use the (2) M3x12MM Bolts and (2) M3 Nylock Nuts to attach the Printed Belt Carriage to the Aluminum Bed Mount using the pre drilled holes. Note: the opening on the Printed Belt Carriage is facing the side with 2 bearing holders. Also, the bolts sometimes fit rather snug within the holes (they sometimes take a little persuasion).
 
 ![Mount bearing holders](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-008-026.png)
 ![All parts mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-008-028.png)
 
-4\. Now we are going to attach the Aluminum Bed Mount to the bearings on the Bottom Frame Assembly of the printer by pushing them down into the LM8UU Bearings. Line up the Printed Bearing Holders over the LM8UU's attached to the Chromed Rod and apply enough pressure to snap the bearings into the Printed Bearing Mounts. Note: you should feel a small pop as it sets into the grooves.
+4\. Now we are going to attach the Aluminum Bed Mount to the bearings on the Bottom Frame Assembly of the printer by pushing them down into the LM8UU Bearings. Line up the Printed Bearing Holders over the LM8UU's attached to the Chromed Rod and apply enough pressure to snap the bearings into the Printed Bearing Mounts. Note: Hold the rods up with your hand while you do this as good practice so that you don't bend anything (you probably couldn't put enough force to do that anyway, but safety first). You should feel a small pop as it sets into the grooves.
 
 ![Bed attached](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-008-029.png)
 
-5\. Tip the frame backward and close the Small Zip Ties that you previously attached to the Printed Bearing Holders over the LM8UU Bearings securing them in place. Note: Once tightened you can clip the excess material from the Small Zip Ties.
+5\. Tip the frame backward and close the Small Zip Ties that you previously attached to the Printed Bearing Holders over the LM8UU Bearings securing them in place. Note: You may tighten these by grabbing the excess end of the tie wrap at the base with a needle-nose pliers and twist in the direction opposite the grooves in the tie wrap. Once tightened you can clip the excess material from the Small Zip Ties.
 
 ![Secure zipties](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-009-031.png)
 
@@ -270,7 +270,7 @@ Special Tools Needed:
 
 ![Prep](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-009-034.png)
 
-2\. Apply solder to contacts #1, #2, & #3.
+2\. Apply solder to contacts #1, #2, & #3. Note: It is advised that you apply flux to the contacts and the wires at this point to make soldering easier.
 
 ![Prep pads](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-009-037.png)
 
@@ -365,7 +365,7 @@ Hardware Needed:
 
 ![Insert nut](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-013-057.png)
 
-3\. Attach the (1) 2.6 Motor to the (1) 3D Printed: Right Side using (3) M3x20MM Bolts. Note you want the motor wire connectors to be facing up so using the picture as a reference it would be facing the upper left.
+3\. Attach the (1) 2.6 Motor to the (1) 3D Printed: Right Side using (3) M3x20MM Bolts. Note: *Some have experienced the motor being loose in the 3D printed frame with the M3x20MM Bolts, consider using shorter screws if this happens, but most importantly don't strip the motor.* Also, you want the motor wire connectors to be facing up so using the picture as a reference it would be facing the upper left.
 
 ![Attach motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-014-058.png)
 
@@ -389,12 +389,12 @@ Hardware Needed:
 
 ![Install zipties](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-015-064.png)
 
-9\. Press (3) LM8UU Bearings into the (1) 3D Printed: Extruder Carriage. Secure into place using the Zip Ties & Clip the ends off the Zip Ties. Note: Use the table to press the bearings into place if you are having trouble getting them to lock in.
+9\. Press (3) LM8UU Bearings into the (1) 3D Printed: Extruder Carriage. Secure into place using the Zip Ties & Clip the ends off the Zip Ties. Note: Use the table to press the bearings into place if you are having trouble getting them to lock in. Also, you may tighten these by grabbing the excess end of the tie wrap at the base with a needle-nose pliers and twist in the direction opposite the grooves in the tie wrap, same as before.
 
 ![Install bearings](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-015-065.png)
 ![Fasten zipties](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-015-066.png)
 
-10\. Very carefully slide the (2) 365MM Chromed rod through the bearings in the (1) 3D Printed: Extruder Carriage. Note: Be very careful when pushing the rod through the bearings not to push out the ball bearings,
+10\. Very carefully slide the (2) 365MM Chromed rod through the bearings in the (1) 3D Printed: Extruder Carriage. Note: Be very careful when pushing the rod through the bearings not to push out the ball bearings. Also, make sure that the rods run through the bearings smoothly. If the single bearing alone runs smoother than the two together, it's likely that you have to readjust the two bearings to put less pressure on the rod. Just wiggle them around a little until it sounds right.
 
 ![Install rods](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-016-068.png)
 
@@ -437,7 +437,7 @@ Hardware Needed: None.
 
 ![Remove screws](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-018-078.png)
 
-2\. Using the 2 screws removed in step 1, attach the motor to the X Carriage by screwing it to the 3D Printed Part: Extruder Carriage as pictured.
+2\. Using the 2 screws removed in step 1, attach the motor to the X Carriage by screwing it to the 3D Printed Part: Extruder Carriage as pictured. Note: *Some have experienced that the 2 extruder mount screws do not fit well through the 3D printed X Carriage holes. Make sure that you don't strip the motor screw holes because it's hard to feel whether you are going through plastic, or stripping through the aluminum thread.*
 
 ![Attach motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-019-079.png)
 
@@ -471,7 +471,7 @@ Hardware Needed:
 * (1) M3 Nylock Nut
 * (2) M4x8MM Pan Head Bolts.
 
-1\. Assemble the hardware in the following order going through the 2020 corner brackets you previously attached to the front of the frame during step 3 of assembly.
+1\. Assemble the hardware in the following order going through the 2020 corner brackets you previously attached to the front of the frame during step 3 of assembly. Note: Some have found that the M3x30MM Bolt is too long for this usage, since the end of the bolt often covers the screws holding in the corner brackets (these usually have to be adjusted during this step, and cannot be reached with the bolt covering them).
 
 ![Pulley assembly](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-020-084.png)
 
@@ -597,7 +597,7 @@ Hardware Needed:
 
 ![Jumpers](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-026-110.png)
 
-2\. Attach the (1) Ramps Board to the (1) Mega Board. This can only be installed one way, line up the pins on the underside of the Ramps Board to the connectors on the Mega Board and firmly press them into place.
+2\. Attach the (1) Ramps Board to the (1) Mega Board. This can only be installed one way, line up the pins on the underside of the Ramps Board to the connectors on the Mega Board and firmly press them into place. Note: Some users have reported that this step was completed by Folgertech already.
 
 ![Connected](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-026-114.png)
 
