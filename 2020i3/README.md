@@ -107,6 +107,8 @@ This means that the origin should be the front right corner of the print bed. Wh
 
 2\. Get out your calipers or ruler and separate screws into different piles based on size (believe us, it makes things much easier).
 
+3\. Find your 16 Gauge Red and Black wire, and cut two 240mm lengths from each, so you have 2x black 240mm sections, 2x red 240mm sections and one each of the long remaining section of red and black (about a meter long). 
+
 TODO: INSERT IMAGE
 
 ### 1. Assemble Bottom Half Of Main Frame
@@ -258,8 +260,8 @@ Hardware Needed:
 Parts Needed:
 * (1) MK2B Heated Bed
 * (1) Thermistor
-* (1) xM Black 16 Gauge Wire
-* (1) xM Red 16 Gauge Wire.
+* (1) ~1M long Black 16 Gauge Wire
+* (1) ~1M long Red 16 Gauge Wire.
 
 Special Tools Needed:
 * Soldering Iron
@@ -274,11 +276,11 @@ Special Tools Needed:
 
 ![Prep pads](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-009-037.png)
 
-3\. Strip the ends off and apply solder to one end of both the Black & Red 16 Gauge Wire.
+3\. Strip the ends off one side of the long Red and Black 16 Gauge Wires and apply solder to the twisted bare strands.
 
 ![Tin leads](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-010-038.png)
 
-4\. Solder the stripped and soldered end of the Black 16 Gauge Wire to both contacts #3 & #2. Note: This is critical, if you do not make contact with both #3 & #2 you will only be running at 12v and will not be able to reach max bed temp.
+4\. Lay the Heated Bed down in front of you where you will solder it so the pad with the number 3 is on your left and the pad numbered 1 is on your right. This makes the Bed lay upside down from the orientation you will attach it to the printer. Solder the stripped and soldered end of the Black 16 Gauge Wire to both contacts #3 & #2. Note: This is critical, if you do not make contact with both #3 & #2 you will only be running at 12v and will not be able to reach max bed temp.
 
 ![Attach Black to 3 and 2](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-010-039.png)
 
@@ -294,7 +296,7 @@ Special Tools Needed:
 
 ![Tape it up](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-011-043.png)
 
-Step 8: Attach the Heated Bed to the Aluminum Bed Plate.
+Step 8: Attach the Heated Bed to the Aluminum Bed Plate, so the wires are all underneath the bed.
 
 Parts Needed:
 * (1) MK2B Heated Bed Pre Wired from Step 7
@@ -304,7 +306,7 @@ Hardware Needed:
 * (4) Thumb Screws
 * (4) M3x16MM Bolts
 
-1\. Feed (1) M3X8MM Bolt through each corner hole on the MK2B Heated Bed > Spring > Aluminum Bed Plate > Secure with (1) Thumb Screw. Note: wires should be coming out the back of the printer. Thumb screws just need to be hand tight for now and can be adjusted later.
+1\. Feed (1) M3X16MM Bolt through each corner hole on the MK2B Heated Bed > Spring > Aluminum Bed Plate > Secure with (1) Thumb Screw. Note: wires should be coming out the back of the printer. Thumb screws just need to be hand tight for now and can be adjusted later.
 
 ![Screw detail for bed mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-011-045.png)
 
@@ -576,7 +578,7 @@ Hardware Needed:
 
 1\. Similar to attaching the SCH8UU in previous steps, we will be removing a set screw from the 2020 L Bracket that is directly above the power supply 2020 Bracket on the vertical 2020 beam.
 
-2\. Attach the (1) Acrylic Hardware Mount to the 2020 frame directly above the power supply by using the (2) M4X8MM Pan Head Bolts and using the 2020 L Bracket already in place for the top screw and (1) M4 T-Nut for the lower screw hole. Note: The holes on the acrylic are differently spaced; if they don't line up try the other side.
+2\. Attach the (1) Acrylic Hardware Mount to the 2020 frame directly above the power supply by using the (2) M4X10MM Pan Head Bolts and using the 2020 L Bracket already in place for the top screw and (1) M4 T-Nut for the lower screw hole. Note: The holes on the acrylic are differently spaced; if they don't line up try the other side.
 
 ![Acrylic Mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-025-106.png)
 
@@ -610,7 +612,7 @@ Hardware Needed:
 
 ![Insert Steppers](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-027-120.png)
 
-5\. Attach the now finished Electronics Assembly to the Acrylic Electronics Mount that we previously mounted to the printer using the (3) M3X30MM Bolts and (3) Nylock Nuts. Note: The power connections and usb port should be facing the outside of the printer.
+5\. Attach the now finished Electronics Assembly to the Acrylic Electronics Mount that we previously mounted to the printer using the (3) M3X30MM Bolts and (3) Nylock Nuts. There is a 4th screw mount hole on the Arduino, but the pin output connectors prevent any of our bolts from being inserted correctly. You can ignore this hole. Note: The power connections and usb port should be facing the outside of the printer.
 
 ![Attach boards](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-027-122.png)
 
