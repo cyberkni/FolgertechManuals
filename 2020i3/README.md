@@ -16,7 +16,7 @@
 	- [6. Attach Motors and Motor Mounts](#6-attach-motors-and-motor-mounts)
 	- [7. Assemble Z Carriage](#7-assemble-z-carriage)
 	- [8. Attach the Extruder to the X Carriage](#8-attach-the-extruder-to-the-x-carriage)
-	- [9. Attach Chrome and Threaded Rod to the Assembled X Carriage](#9-attach-chrome-and-threaded-rod-to-the-assembled-x-carriage)
+	- [9. Attach Chrome Rod and Threaded Rod to the Assembled X Carriage](#9-attach-chrome-rod-and-threaded-rod-to-the-assembled-x-carriage)
 	- [10. Assemble the Front Pulley Assembly](#10-assemble-the-front-pulley-assembly)
 	- [11. Attach the Pulley and Belt to the Y Carriage](#11-attach-the-pulley-and-belt-to-the-y-carriage)
 	- [12. Attach the Couplings and SHF8UU Clamps in Preparation for the X Carriage to Be Attached in the Next Step](#12-attach-the-couplings-and-shf8uu-clamps-in-preparation-for-the-x-carriage-to-be-attached-in-the-next-step)
