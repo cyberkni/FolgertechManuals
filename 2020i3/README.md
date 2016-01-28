@@ -6,35 +6,35 @@
 - [Overview](#overview)
 	- [Axes](#axes)
 	- [Origin](#origin)
-- [Build guide](#build-guide)
+- [Build Guide](#build-guide)
 	- [0. Prep](#0-prep)
-	- [1. Assemble Bottom Half Of Main Frame](#1-assemble-bottom-half-of-main-frame)
-	- [2. Attach Y Carriage Rails & Bearings](#2-attach-y-carriage-rails--bearings)
-	- [3. Attach & Assemble The Upper Frame](#3-attach--assemble-the-upper-frame)
-	- [4. Assemble The Aluminum Heat Bed Plate](#4-assemble-the-aluminum-heat-bed-plate)
-	- [5. Solder The MK2B Heated Bed & Attach Thermistor](#5-solder-the-mk2b-heated-bed--attach-thermistor)
-	- [6. Attach Motors & Motor Mounts](#6-attach-motors--motor-mounts)
+	- [1. Assemble Bottom Half of Main Frame](#1-assemble-bottom-half-of-main-frame)
+	- [2. Attach Y Carriage Rails and Bearings](#2-attach-y-carriage-rails-and-bearings)
+	- [3. Attach and Assemble the Upper Frame](#3-attach-and-assemble-the-upper-frame)
+	- [4. Assemble the Aluminum Heat Bed Plate](#4-assemble-the-aluminum-heat-bed-plate)
+	- [5. Solder the MK2B Heated Bed and Attach Thermistor](#5-solder-the-mk2b-heated-bed-and-attach-thermistor)
+	- [6. Attach Motors and Motor Mounts](#6-attach-motors-and-motor-mounts)
 	- [7. Assemble Z Carriage](#7-assemble-z-carriage)
 	- [8. Attach the Extruder to the X Carriage](#8-attach-the-extruder-to-the-x-carriage)
-	- [9. Attach Chrome & Threaded rod to the assembled X Carriage.](#9-attach-chrome--threaded-rod-to-the-assembled-x-carriage)
-	- [10. Assemble The Front Pulley Assembly](#10-assemble-the-front-pulley-assembly)
-	- [11. Attach the Pulley and Belt to the Y carriage.](#11-attach-the-pulley-and-belt-to-the-y-carriage)
-	- [12. Attach the Couplings and SHF8UU Clamp in preparation for the X Carriage to be attached in the next step.](#12-attach-the-couplings-and-shf8uu-in-preparation-for-the-x-carriage-to-be-attached-in-the-next-step)
-	- [13. Attach X & Z Assembly to the Printer.](#13-attach-x--z-assembly-to-the-printer)
-	- [14. Attach the Power Supply.](#14-attach-the-power-supply)
+	- [9. Attach Chrome and Threaded Rod to the Assembled X Carriage.](#9-attach-chrome-and-threaded-rod-to-the-assembled-x-carriage)
+	- [10. Assemble the Front Pulley Assembly](#10-assemble-the-front-pulley-assembly)
+	- [11. Attach the Pulley and Belt to the Y Carriage](#11-attach-the-pulley-and-belt-to-the-y-carriage)
+	- [12. Attach the Couplings and SHF8UU Clamps in Preparation for the X Carriage to Be Attached in the Next Step](#12-attach-the-couplings-and-shf8uu-in-preparation-for-the-x-carriage-to-be-attached-in-the-next-step)
+	- [13. Attach X and Z Assembly to the Printer](#13-attach-x-and-z-assembly-to-the-printer)
+	- [14. Attach the Power Supply](#14-attach-the-power-supply)
 	- [15. Attach the Acrylic Electronics Mount](#15-attach-the-acrylic-electronics-mount)
-	- [16. Assemble & Mount the Electronics](#16-assemble--mount-the-electronics)
+	- [16. Assemble and Mount the Electronics](#16-assemble-and-mount-the-electronics)
 	- [17. Attach the Motor Wires](#17-attach-the-motor-wires)
-	- [18. Wire the Heated bed and the Extruder Heater to the RAMPS Board](#18-wire-the-heated-bed-and-the-extruder-heater-to-the-RAMPS-board)
+	- [18. Wire the Heated Bed and the Extruder Heater to the RAMPS Board](#18-wire-the-heated-bed-and-the-extruder-heater-to-the-RAMPS-board)
 	- [19. Attach Heated Bed and Extruder Thermistors](#19-attach-heated-bed-and-extruder-thermistors)
-	- [20. Mount & Wire the End Stops](#20-mount--wire-the-end-stops)
+	- [20. Mount and Wire the End Stops](#20-mount-and-wire-the-end-stops)
 	- [21. Wire Power Cable to the Power Supply](#21-wire-power-cable-to-the-power-supply)
-	- [22. Wire the RAMPS to the Power Supply.](#22-wire-the-RAMPS-to-the-power-supply)
-	- [23. Attach Wire Extension to Extruder Fan & Wire it to The Power Supply.](#23-attach-wire-extension-to-extruder-fan--wire-it-to-the-power-supply)
-	- [24. Verify your wiring using the below pictures as a reference.](#24-verify-your-wiring-using-the-below-pictures-as-a-reference)
+	- [22. Wire the RAMPS to the Power Supply](#22-wire-the-RAMPS-to-the-power-supply)
+	- [23. Attach Wire Extension to Extruder Fan and Wire it to the Power Supply](#23-attach-wire-extension-to-extruder-fan-and-wire-it-to-the-power-supply)
+	- [24. Verify Your Wiring Using the Below Pictures as a Reference](#24-verify-your-wiring-using-the-below-pictures-as-a-reference)
 	- [25. Mount Filament Feed Assist](#25-mount-filament-feed-assist)
 	- [26. Attach the Spool Holder](#26-attach-the-spool-holder)
-	- [27. Wire Cleanup & Cosmetics](#27-wire-cleanup--cosmetics)
+	- [27. Wire Cleanup and Cosmetics](#27-wire-cleanup-and-cosmetics)
 - [Conclusion](#conclusion)
 
 
@@ -49,7 +49,7 @@ The original introduction was:
 
 > Thank you for your purchase!
 >
-> We are happy to announce this as our 3rd complete 3D printer kit. The Folger Tech 2020 i3 kit combines the simplicity of an erector set with the power of a much more expensive desktop printer. This kit includes everything you need to assemble the 8 cubic inch print area machine (with the exception of an 8x8” glass surface & the tools required for assembly).
+> We are happy to announce this as our 3rd complete 3D printer kit. The Folger Tech 2020 i3 kit combines the simplicity of an erector set with the power of a much more expensive desktop printer. This kit includes everything you need to assemble the 8 cubic inch print area machine (with the exception of an 8x8” glass surface and the tools required for assembly).
 >
 > Note From the Author:
 > This guide was made from the perspective of someone that has never built a 3D printer. I built the printer with only the prototype as a visual reference. Taking pictures each step of the way and making small notations I was able to put together the following guide over the next couple weeks. Once the first draft was completed we had one of our warehouse girls take a kit and try to assemble it. She had zero technical experience and made notes (lots of them) on each page as she went along. She completed her first printer and I took the notes back to my desk to complete this guide. This is the finished product. I look forward to your feedback and hope you enjoy building this extremely fun i3 kit!
@@ -111,7 +111,7 @@ This means that the origin should be the front right corner of the print bed, at
 
 TODO: INSERT IMAGE
 
-### 1. Assemble Bottom Half Of Main Frame
+### 1. Assemble Bottom Half of Main Frame
 
 Parts Needed:
 * (2) 365mm 2020 Beam
@@ -133,7 +133,7 @@ Hardware Needed:
 
 [Insert Picture Here]
 
-2\. Using (2) 4mm T-nuts & (2) M4x8mm Pan Head Bolts attach the 2020 Corner Brackets to the center of the 375mm 2020 Beam spacing them about an inch apart. Note: This will be adjusted later.
+2\. Using (2) 4mm T-nuts and (2) M4x8mm Pan Head Bolts attach the 2020 Corner Brackets to the center of the 375mm 2020 Beam spacing them about an inch apart. Note: This will be adjusted later.
 
 ![Corner Brackets mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-003-001.png)
 
@@ -151,7 +151,7 @@ Hardware Needed:
 6\. Repeat the process from step 3 to attach the remaining 2 SK8s by sliding (4) M5 T-nuts onto the top of the 2020 Beam and attach the remaining (2) SK8s using (4) M5x8mm Bolts.
 TODO: TAKE A PHOTO OF THIS STEP
 
-7\. Take the metal Motor Mount and attach it to the front face of the 375mm 2020 Beam in between the SK8s using (2) M4 T-nuts & (2) M4x8mm Pan Head Bolts. Note: This will need to be moved left and right to adjust screws later so you can leave it loose for now.
+7\. Take the metal Motor Mount and attach it to the front face of the 375mm 2020 Beam in between the SK8s using (2) M4 T-nuts and (2) M4x8mm Pan Head Bolts. Note: This will need to be moved left and right to adjust screws later so you can leave it loose for now.
 
 ![Motor mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-004-005.png)
 
@@ -167,7 +167,7 @@ TODO: TAKE A PHOTO OF THIS STEP
 ![Joint detail](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-009.png)
 ![Finished base frame](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-005-010.png)
 
-### 2. Attach Y Carriage Rails & Bearings
+### 2. Attach Y Carriage Rails and Bearings
 
 Parts Needed:
 * (2) 395mm Chrome Rod
@@ -196,7 +196,7 @@ Hardware Needed: None
 
 5\. Be sure to tighten the tension screws on the (4) SK8s to secure the Chrome Rods in place.
 
-### 3. Attach & Assemble The Upper Frame
+### 3. Attach and Assemble the Upper Frame
 
 Parts Needed:
 * (2) 295mm 2020 Beam
@@ -221,7 +221,7 @@ Hardware Needed:
 ![Top Beam](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-007-020.png)
 ![Overview](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-007-021.png)
 
-### 4. Assemble The Aluminum Heat Bed Plate
+### 4. Assemble the Aluminum Heat Bed Plate
 
 Parts Needed:
 * (1) Aluminum Bed Plate
@@ -310,7 +310,7 @@ Hardware Needed:
 
 ![Screw detail for bed mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-011-045.png)
 
-### 6. Attach Motors & Motor Mounts
+### 6. Attach Motors and Motor Mounts
 
 Parts Needed:
 * (2) Metal Motor Mount
@@ -443,7 +443,7 @@ Hardware Needed: None
 
 ![Attach motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-019-079.png)
 
-### 9. Attach Chrome Rod and Threaded Rod to the assembled X Carriage.
+### 9. Attach Chrome Rod and Threaded Rod to the Assembled X Carriage.
 
 Parts Needed:
 * (2) 235mm 5mm Threaded Rod
@@ -460,7 +460,7 @@ Hardware Needed: None
 
 ![Thread Carriage](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-019-083.png)
 
-### 10. Assemble The Front Pulley Assembly
+### 10. Assemble the Front Pulley Assembly
 
 Parts Needed:
 * (2) F623Z Bearing
@@ -479,7 +479,7 @@ Hardware Needed:
 
 M3x30mm Bolt > M4 Large Washer > 2020 Corner Bracket > M4 Large Washer > M3 Washer > F623ZZ Bearing (Flange out) > 623ZZ Bearing > F623ZZ Bearing (Flange out) > M3 Washer > M4 Large Washer > 2020 Corner Bracket > M4 Large Washer > Nylock Nut
 
-### 11. Attach the Pulley and Belt to the Y carriage.
+### 11. Attach the Pulley and Belt to the Y Carriage.
 
 Parts Needed:
 * (1) 20T Pulley
@@ -500,7 +500,7 @@ Hardware Needed:
 
 ![GT2 Secured](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-021-090.png)
 
-### 12. Attach the Couplings and SHF8UU Clamps in preparation for the X Carriage to be attached in the next step.
+### 12. Attach the Couplings and SHF8UU Clamps in Preparation for the X Carriage to Be Attached in the Next Step
 
 Parts Needed:
 * (2) 5x5 Coupling
@@ -548,7 +548,7 @@ Hardware Needed: None
 
 ![Threaded rod up to coupling](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-024-101.png)
 
-### 14. Attach the Power Supply.
+### 14. Attach the Power Supply
 
 Parts Needed:
 * (1) Power Supply
@@ -581,7 +581,7 @@ Hardware Needed:
 
 ![Acrylic Mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-025-106.png)
 
-### 16. Assemble and mount the Electronics
+### 16. Assemble and Mount the Electronics
 
 Parts Needed:
 * (1) Mega Board
@@ -642,7 +642,7 @@ Hardware Needed: None
 
 ![Connect Extruder motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-028-134.png)
 
-### 18. Wire the Heated bed and the Extruder Heater to the RAMPS Board
+### 18. Wire the Heated Bed and the Extruder Heater to the RAMPS Board
 
 Parts Needed:
 * Heated Bed Wires
@@ -762,7 +762,7 @@ Special Tools Needed:
 
 ![Wire up power](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-035-167.png)
 
-### 22. Wire the RAMPS to the Power Supply.
+### 22. Wire the RAMPS to the Power Supply
 
 Parts Needed:
 * (2) 240mm 16 Gauge Red Wire
@@ -788,7 +788,7 @@ Hardware Needed: None
 
 ![Insert wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-036-174.png)
 
-### 23. Attach Wire Extension to Extruder Fan & Wire it to The Power Supply.
+### 23. Attach Wire Extension to Extruder Fan and Wire it to the Power Supply
 
 Parts Needed:
 * (1) 1m 22 Gauge Black Wire
@@ -815,7 +815,7 @@ Special Tools Needed:
 ![Connect Red](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-038-184.png)
 ![Connect Black](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-038-185.png)
 
-### 24. Verify your wiring using the below pictures as a reference.
+### 24. Verify Your Wiring Using the Below Pictures as a Reference
 
 ![PSU Wiring](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-038-186.png)
 ![RAMPS Wiring](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-038-187.png)
@@ -848,7 +848,7 @@ Hardware Needed:
 
 ![Spool holder](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-039-191.png)
 
-### 27. Wire Cleanup & Cosmetics
+### 27. Wire Cleanup and Cosmetics
 
 Parts Needed:
 * (1) Wire Keeper
