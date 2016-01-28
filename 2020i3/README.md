@@ -306,7 +306,7 @@ Hardware Needed:
 * (4) Thumb Screw
 * (4) M3x16mm Bolt
 
-1\. Feed (1) M3X16mm Bolt through each corner hole on the MK2B Heated Bed > Spring > Aluminum Bed Plate > Secure with (1) Thumb Screw. Note: Wires should be coming out the back of the printer. Thumb screws just need to be hand tight for now and can be adjusted later.
+1\. Feed (1) M3x16mm Bolt through each corner hole on the MK2B Heated Bed > Spring > Aluminum Bed Plate > Secure with (1) Thumb Screw. Note: Wires should be coming out the back of the printer. Thumb screws just need to be hand tight for now and can be adjusted later.
 
 ![Screw detail for bed mount](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-011-045.png)
 
@@ -354,7 +354,7 @@ Parts Needed:
 
 Hardware Needed:
 * (3) M3x20mm Bolt
-* (1) M3X16mm Bolt
+* (1) M3x16mm Bolt
 * (4) M3 Nylock Nut
 * (2) M5 Nut
 * (8) Zip Tie
