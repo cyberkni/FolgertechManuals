@@ -740,7 +740,7 @@ Hardware Needed:
 ![Y Endstop wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-034-159.png)
 ![Y Endstop connected](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-034-160.png)
 
-10\. Take the end of the wire from the X Carriage End Stop. You are going to place it in a row right next to the previous plugged in end Stop and plug this End Stop into the 6th row. Use the picture as a reference (plug into 6th, not 7th as in the picture). The red wire should be facing up, if plugged in backwards it will short the RAMPS causing permanent damage. **IMPORTANT: when uploading the firmware, edit configuration.h and make sure X_HOME_DIR is set to 1, like so: #define X_HOME_DIR 1**. [see more about mirrored X axis problem here](http://forums.reprap.org/read.php?406,512329,page=62)
+10\. Take the end of the wire from the X Carriage End Stop. You are going to place it in a row right next to the previous plugged in end Stop and plug this End Stop into the 6th row. Use the picture as a reference (plug into 6th, not 7th as in the picture). The red wire should be facing up, if plugged in backwards it will short the RAMPS causing permanent damage. **IMPORTANT, SAVE THIS NOTE FOR CONFIGURATION STEP: when uploading the firmware, edit configuration.h and make sure X_HOME_DIR is set to 1, like so: #define X_HOME_DIR 1**. [see more about mirrored X axis problem here](http://forums.reprap.org/read.php?406,512329,page=62)
 
 ![X Endstop wires](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-034-161.png)
 ![X Endstop connected](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-034-162.png)
