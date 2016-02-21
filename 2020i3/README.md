@@ -634,7 +634,7 @@ Hardware Needed: None
 
 ![Connect Y motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-028-130.png)
 
-4\. Take the wire from the Z Carriage Assembly (the motor with the 20T Pulley) and plug it in under the 3rd (right most) stepper driver.
+4\. Take the wire from the Z Carriage Assembly (the motor with the 20T Pulley) and plug it in under the 3rd (right most) stepper driver. Note that this wire is **flipped** (green to the right).
 
 ![Connect X motor](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-028-132.png)
 
